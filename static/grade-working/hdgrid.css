@@ -22,15 +22,15 @@ body {
   margin-left:2px;
   font-size:13px;
   padding:2px;
-  background: linear-gradient( 135deg, rgba(5,5,5,.1), rgba(5,5,5,0));
+  background: linear-gradient( 0deg, rgb(70,70,70), rgb(40,40,40), rgb(40,40,40));
   height:100%;
   text-overflow:ellipsis;
   word-wrap:break-word;
-  color:black;
+  color:white;
 }
 
 .innerNone {
-  background: linear-gradient( 180deg, rgba(5,5,5,.1), rgba(255,255,255,0), rgba(255,255,255,0), rgba(255,255,255,0));
+  background: linear-gradient( 180deg, rgba(5,5,5,.2), rgba(255,255,255,0), rgba(255,255,255,0));
 }
 
 .innerHour {

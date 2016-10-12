@@ -12,8 +12,8 @@ function mapCell(storeElement) {
 var app = {
 
   evento: null,
-  chunkHourSpace:150,
-  ratioForHeight:.4,
+  chunkHourSpace:100,
+  ratioForHeight:1.7,
   descricao : new Array(),
   gridCols: 0,
   gridBuffer: null,
@@ -24,7 +24,7 @@ var app = {
   },
 
   start : function (queryDays) {
- 	document.body.innerHTML='';
+ 	document.getElementById("container").innerHTML='';
 	for(var k in queryDays) {
 		//var ddate = new Date();
 		//dday = ddate.getDate();
@@ -58,7 +58,7 @@ var app = {
 				var preHeaderElement= document.createElement("div");
 			  	preHeaderElement.setAttribute("class","dayStamp");
 				preHeaderElement.innerHTML="<div style='clear:both'></div><h2>"+dday+" de "+( dateUtil.getPtBrMonth());
-				document.body.appendChild(preHeaderElement);
+				document.getElementById('container').appendChild(preHeaderElement);
 			}
 			// generateDivs are to use gridBuffer, cols
 			// and the inner util function gridtype to make
@@ -123,6 +123,7 @@ var app = {
 				collectBuffer+=this.gridBuffer[k];
 				electChar='';
 			}
+
 		}
 
 		buffer2+=electChar;
@@ -195,56 +196,56 @@ var app = {
 
 		for(var hour in hourSlices ) {
 
-      if(hourIndex==0&&!dumpHeader) {
-          dumpHeader = true;
-          buffer=mapCell({'type':'corner'});
-                for( var e in updateColumns ) {
-          	var roomChar = mapCell({'type':'header', 'value': e});
-          	buffer+=roomChar;
-          }
-      }
-      var columnCount=0;
-      for( var e in updateColumns ) {
-        if(columnCount==0) {
-            var e2=null;
-            if(typeof slicesSequence[hourIndex+1] != 'undefined') {
-              e2=slicesSequence[hourIndex+1];
-            } else {
-              e2=parseInt(slicesSequence[hourIndex])+30;
-             }
-            var delta = parseInt(e2-slicesSequence[hourIndex]);
-            var roomChar = mapCell({'type':'slices', 'value': hour, 'height': delta , 'begin':slicesSequence[hourIndex], 'end':e2, 'flag':false});
-            buffer+=roomChar;
-        }
-        var items = updateColumns[e];
-        var keyChar='';
-        for( var kk in items) {
-        	var item = items[kk];
-        	if(strToMins(item.inicio)==parseInt(hour)) {
-        		keyChar = item.cellMap;
-        		openElements[e]=item;
-        	}
-        }
-        if(keyChar=='') {
-        	if(openElements[e]) {
-        		if(strToMins(openElements[e].fim)>parseInt(hour)) {
-        			keyChar = openElements[e].cellMap;
-        		} else {
-        			// we may consider killing open elements
-        		}
-        	}
-        }
-        if(keyChar=='') {
-        	var hEnd = slicesSequence[hourIndex+1];
-        	var hBegin = slicesSequence[hourIndex];
-        	var delta = parseInt(hEnd-hBegin);
-        	keyChar = mapCell({'type':'none', 'value': delta, 'begin':slicesSequence[hourIndex], 'end':slicesSequence[hourIndex+1]});
-        }
-        buffer+=keyChar;
-        roomIndex++;
-        columnCount++;
-      } // columns = rooms
-      hourIndex++;
+		   if(hourIndex==0&&!dumpHeader) {
+			dumpHeader = true;
+			buffer=mapCell({'type':'corner'});
+		        for( var e in updateColumns ) {
+				var roomChar = mapCell({'type':'header', 'value': e});
+				buffer+=roomChar;
+			}
+		   }
+		   var columnCount=0;
+		   for( var e in updateColumns ) {
+			if(columnCount==0) {
+                           var e2=null;
+			   if(typeof slicesSequence[hourIndex+1] != 'undefined') {
+                              e2=slicesSequence[hourIndex+1];
+			   } else {
+                              e2=parseInt(slicesSequence[hourIndex])+30;
+		 	   }
+			   var delta = parseInt(e2-slicesSequence[hourIndex]);
+			   var roomChar = mapCell({'type':'slices', 'value': hour, 'height': delta , 'begin':slicesSequence[hourIndex], 'end':e2, 'flag':false});
+			   buffer+=roomChar;
+		        }
+			var items = updateColumns[e];
+			var keyChar='';
+			for( var kk in items) {
+				var item = items[kk];
+				if(strToMins(item.inicio)==parseInt(hour)) {
+					keyChar = item.cellMap;
+					openElements[e]=item;
+				}
+			}
+			if(keyChar=='') {
+				if(openElements[e]) {
+					if(strToMins(openElements[e].fim)>parseInt(hour)) {
+						keyChar = openElements[e].cellMap;
+					} else {
+						// we may consider killing open elements
+					}
+				}
+			}
+			if(keyChar=='') {
+				var hEnd = slicesSequence[hourIndex+1];
+				var hBegin = slicesSequence[hourIndex];
+				var delta = parseInt(hEnd-hBegin);
+				keyChar = mapCell({'type':'none', 'value': delta, 'begin':slicesSequence[hourIndex], 'end':slicesSequence[hourIndex+1]});
+			}
+			buffer+=keyChar;
+			roomIndex++;
+			columnCount++;
+		     } // columns = rooms
+                     hourIndex++;
 		}  // hours = slices
 
 		this.gridBuffer=buffer;
@@ -257,10 +258,12 @@ var app = {
 		var buffer = this.gridBuffer;
 		var cols   = this.gridCols;
 		var container=document.createElement('div');
- 		var cName = 'container_'+Math.random();
-
+       		var cName = 'container_'+Math.random();
 		container.setAttribute('id', cName);
-		document.body.appendChild(container);
+
+
+
+		document.getElementById('container').appendChild(container);
 		cssWidth = parseInt(parseInt(document.getElementById(cName).offsetWidth-50)/cols);
 		var uniqueClassName = 'inner'+parseInt(Math.random()*1000);
 
@@ -270,84 +273,94 @@ var app = {
 
 		var proposedHeight=0;
 		var these = this;
-
 		$('.'+uniqueClassName).each(function() {
-
 			var probeElement = charToElement[$(this).attr('id')];
-
 		 	if(probeElement)  {
 
-        if(probeElement.type=='event') {
-            var el = probeElement.value;
 
-            var addStyle='';
-            if(el.descricao.indexOf('mudou')>-1) {
-            	addStyle='background:red ! important';
-            }
-            	//$(this).html('<div class="innerInnerCell" style="'+addStyle+'">'+el.descricao+'</div>');
-            $(this).html('<div class="innerInnerCell"><div class="innerInnerInnerCell">'+doFilter(el.descricao)+'</div></div>');
+                if(probeElement.type=='event') {
+                    var el = probeElement.value;
+//                    $(this).html('<div class="innerInnerCell">'+doFilter(el.descricao)+'</div>');
+                    $(this).html('<div class="innerInnerCell"><div class="innerInnerInnerCell">'+doFilter(el.descricao)+'</div></div>');
+                    $(this).addClass('inner');
+                    var delta = probeElement.end-probeElement.begin;
 
-            $(this).addClass('inner');
-            var delta = probeElement.end-probeElement.begin;
+                    var addStyle='';
+                    if(probeElement.flag) {
+                        delta=delta+these.chunkHourSpace;
+                        addStyle+='background:rgb(0,0,70);color:white';
+                        //marcio
+                    }
+                    var dateTodayNow = new Date();
+                    var thresholdHourNow = dateTodayNow.getHours()*60+dateTodayNow.getMinutes();
+                    if(probeElement.flagToday) {
+                       if(probeElement.begin<thresholdHourNow) {
+                           addStyle='background:rgb(0,0,170);color:white ! important;';
+                        }
+                        if(probeElement.end<thresholdHourNow) {
+                           addStyle='background:rgb(0,70,0);color:white;';
+                        }
+                    }
 
-            if(probeElement.flag) {
-            	delta=delta+these.chunkHourSpace;
-            }
-            //if(delta==0) { delta=200 }
-            $(this).attr("style",'width:'+cssWidth+'px;height:'+these.fixScaleHeight(delta)+'px;');
-        }
+                    if(el.descricao.indexOf('*')>-1) {
+                        addStyle='background:-moz-linear-gradient( -90deg, rgb(150,30,30), rgb(60,30,30), rgb(60,30,30));';
+                    }
 
-			  if(probeElement.type == 'none') {
-            var delta = probeElement.value;
+                    //if(delta==0) { delta=200 }
+                    $(this).attr("style",';width:'+cssWidth+'px;height:'+these.fixScaleHeight(delta)+'px;');
+                    $(this).find('div').attr("style",addStyle);
+                }
 
-            if(probeElement.flag) {
-            	delta=these.chunkHourSpace;
-            }
 
-            $(this).addClass('innerNone');
-            $(this).attr("style",'width:'+cssWidth+'px;height:'+these.fixScaleHeight(delta)+'px;');
-            $(this).html('');
-			  }
+			   if(probeElement.type == 'none') {
 
-        if(probeElement.type == 'slices') {
-            var hour = probeElement.value;
-            var delta = probeElement.height;
+                var delta = probeElement.value;
+				if(probeElement.flag) {
+					delta=these.chunkHourSpace;
+				}
 
-            if(!delta) { delta=these.chunkHourSpace; }
+				$(this).addClass('innerNone');
+				$(this).attr("style",'width:'+cssWidth+'px;height:'+these.fixScaleHeight(delta)+'px;');
+				$(this).html('');
+			   }
 
-            $(this).addClass('innerHour');
-            var localWidth='50px';
-            var hourSliceId = 'hourSlice_'+Math.random();
-            var strHH = ''+Math.floor(parseInt(hour)/60);
-            var strMM = ''+parseInt(hour)%60;
-            if(strMM<10) { strMM+='0'; }
-            var strProposal = strHH+':'+strMM;
+			   if(probeElement.type == 'slices') {
+                                var hour = probeElement.value;
+                                var delta = probeElement.height;
 
-            if(probeElement.flag) {
-              strProposal='';
-              delta=these.chunkHourSpace;
-            }
+				if(!delta) { delta=these.chunkHourSpace; }
+				$(this).addClass('innerHour');
+				var localWidth='50px';
+				var hourSliceId = 'hourSlice_'+Math.random();
+				var strHH = ''+Math.floor(parseInt(hour)/60);
+				var strMM = ''+parseInt(hour)%60;
+				if(strMM<10) { strMM+='0'; }
+				var strProposal = strHH+':'+strMM;
 
-            $(this).attr("style",'width:'+localWidth+';height:'+these.fixScaleHeight(delta)+'px;');
-            $(this).html('<div id="'+hourSliceId+'" class="innerInnerHour" style="display:inline-block;padding:0px"><div>'+strProposal+'</div></div>');
+				if(probeElement.flag) {
+					strProposal='';
+					delta=these.chunkHourSpace;
+				}
+				$(this).attr("style",'width:'+localWidth+';height:'+these.fixScaleHeight(delta)+'px;');
+			 	$(this).html('<div id="'+hourSliceId+'" class="innerInnerHour" style="display:inline-block;padding:0px"><div>'+strProposal+'</div></div>');
 
-            // This -20 is due to the padding and the 4 is for borders?
-            var elWidth = document.getElementById(hourSliceId).offsetWidth;
-        }
+				// This -20 is due to the padding and the 4 is for borders?
+	  			var elWidth = document.getElementById(hourSliceId).offsetWidth;
+			   }
 
-        if(probeElement.type == 'header') {
-          var room = probeElement.value;
-          $(this).addClass('innerHeader');
-          $(this).attr("style",'width:'+cssWidth+'px;');
-          $(this).html('<div class="innerInnerHeader">'+room+'</div>');
-        }
+			   if(probeElement.type == 'header') {
+                                       var room = probeElement.value;
+				$(this).addClass('innerHeader');
+				$(this).attr("style",'width:'+cssWidth+'px;');
+			 	$(this).html('<div class="innerInnerHeader">'+room+'</div>');
+			   }
 
-        if(probeElement.type == 'corner') {
-          var localWidth='50px';
-          var room = probeElement.value;
-          $(this).attr("style",'width:'+localWidth+';');
-          $(this).html('<div class="innerInnerCorner" style="-moz-transform-orifin:0px 0px; -moz-transform:rotate(-90deg)"> </div>');
-        }
+			   if(probeElement.type == 'corner') {
+				var localWidth='50px';
+                                       var room = probeElement.value;
+				$(this).attr("style",'width:'+localWidth+';');
+			 	$(this).html('<div class="innerInnerCorner" style="-moz-transform-orifin:0px 0px; -moz-transform:rotate(-90deg)"> </div>');
+			   }
 
 			}
 		});

@@ -1,23 +1,26 @@
 
-* { color: black } 
+html { color: black }
 
-h2 { clear:both; padding:.1em; padding-left:1em; margin:.2em; color:black } 
+h2 { clear:both; padding:.1em; padding-left:1em; margin:.2em; color:black }
 
-.dayStamp { 
+.dayStamp {
 	text-align:right;
-} 
+}
 
-.mark { 
+.mark {
   color:lightblue;
-} 
- 
-.item { 
+}
+
+.item {
   font-weight:normal;
  padding-top:1em;
-} 
+}
 
+.talk {
+	font-weight: bold ! important;
+}
 
-.title { 
+.title {
   text-align:center;
   padding:.6em;
   line-height:1.5em;
