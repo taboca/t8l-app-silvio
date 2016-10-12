@@ -1,0 +1,19 @@
+{
+"rules": [
+
+{
+ "about":"start",
+ "function":"spawnJS",
+ "data":{"value":"fetchInstagram.js","about":"latinoware"}, "to":"next"
+}, 
+{
+ "about":"next",
+ "function":"timer",
+ "data":{"value":60000},
+ "to":"start"
+}
+
+]
+
+}
+

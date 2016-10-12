@@ -1,0 +1,32 @@
+img { width:48px } 
+    body { 
+ 	font-weight:bold;	
+	padding:10px;
+	padding-top:0;
+    } 
+
+    div.item { 
+	color:#444;
+	margin-top:20px;
+	margin-left:.8em;
+    margin-right:1em;
+	height:55px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    } 
+    div h3 { 
+	font-size:16px;
+	font-weight:bold;
+	color:black;
+	margin:0;
+	margin-bottom:10px;
+    } 
+    div.desc { 
+	font-size:15pt ! important;
+	margin-bottom:5px;
+	color:#000 ! important;
+	overflow:hidden;
+	text-overflow:ellipsis; 
+	height:0px;
+    } 
+

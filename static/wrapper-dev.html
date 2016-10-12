@@ -1,0 +1,70 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link media="screen, projection" type="text/css" href="t8l/base.css" rel="stylesheet">
+<link media="screen, projection" type="text/css" href="t8l/hdgrid.css" rel="stylesheet">
+<link media="screen, projection" type="text/css" href="t8l/tagvisor.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="index-vertical.css">
+<script src="t8l/jquery-min.js"></script>
+<script src="const.js"></script>
+<script src="index-vertical.js"></script>
+<script src="t8l/tagvisor.js"></script>
+<script src="t8l/choreographer.js"></script>
+
+<style>
+    
+    #screen1-off { 
+      -moz-transform:translate(1920px);
+    }
+
+    #screen1-off .view {
+      -moz-transform:rotate(90deg);
+      -moz-transform-origin:0 0;
+    }
+
+    #screen2 {
+
+      -moz-transform:translate(750px, -1832px);
+      -moz-transform:translate(1080px, -1920px);
+    }
+
+    #screen2-off .view { 
+      -moz-transform:rotate(90deg);
+      -moz-transform-origin:50% 50%;
+    }
+
+    iframe { 
+         width:1080px; 
+         height:1920px; 
+         border:0; 
+     }
+
+</style>
+
+</head>
+
+<body id="main">
+
+<div id="debug" >
+</div>
+
+<ul id='animation'>
+ <li data-scope='meio' data-target='panel_1' data-time="2s" data-effect="scalefit" data-duration="4s" />
+</ul>
+
+<div id='screen1' >
+<div class='view' >
+    <iframe src='http://localhost:8888/static/index-vertical-grade.html' ></iframe>
+</div>
+</div>
+
+
+<div id='screen2'  >
+  <div class='view' >
+    <iframe src='http://localhost:8888/static/index-vertical-linhas.html' ></iframe>
+  </div>
+</div>
+
+</body>
+</html>

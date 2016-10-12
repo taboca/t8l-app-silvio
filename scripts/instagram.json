@@ -1,0 +1,19 @@
+{
+"rules": [
+
+{
+ "about":"start",
+ "function":"spawnJS",
+ "data":{"value":"mergeInstagram.js","about":"latinoware"}, "to":"next"
+}, 
+{
+ "about":"next",
+ "function":"timer",
+ "data":{"value":120000},
+ "to":"start"
+}
+
+]
+
+}
+

@@ -1,0 +1,3914 @@
+BEGIN:VCALENDAR
+PRODID:-//Latinoware.org//LAPSI Latinoware 2.12//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Program Latinoware 2016
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALDESC:
+BEGIN:VEVENT
+DTSTART:20161019T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142515Z
+UID:110@1@128@1691
+CREATED:20161011T142515Z
+DESCRIPTION:In the past Free and Open Source Software (FOSS) has typically 
+ been linked with one political philosophy.  However FOSS is really not abou
+ t politics\, but economics.  What politician would say \"Let's send billion
+ s of dollars outside of Brazil while Brazilian people are jobless\"?  How l
+ ong would a politician stay in power if they insisted on using buggy softwa
+ re that had NSA trapdoors in it to spy on their people?  Why would a politi
+ cian advocate using closed-source software that inhibited their people from
+  doing research and creating new products?\n\nThis talk will show why FOSS 
+ is the \"every party software\"\, and if your current politician is now adv
+ ocating its use\, then why would you vote for them in the next election?
+LAST-MODIFIED:20160909T123327Z
+LOCATION:Espaço Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Open Source is about economics\, not politics!
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)\,Keynote(#000000/#B4B7DB)
+CONTACT:Jon "Maddog" Hall
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142515Z
+UID:110@2@128@1658
+CREATED:20161011T142515Z
+DESCRIPTION:Relata como foi a migração do Photoshop para o Gimp\, contando 
+ um pouco da história do ilustrador até chegar\, primeiramente\, ao uso do P
+ hotoshop e o que o motivou a romper com ele. Com o propósito de conscientiz
+ ar a grande maioria dos designers e ilustradores (e outros profissionais) i
+ niciantes ou não\, que ainda acreditam ser os "adobes e corels da vida” a s
+ olução para os seus problemas. Trabalhando atualmente com softwares gráfico
+ s livres\, mantendo o mesmo padrão de qualidade no seu trabalho como ilustr
+ ador editorial\, mostra o uso do software livre como ótima alternativa\, bu
+ scando quebrar este paradigma de "photoshops" e "corels".
+LAST-MODIFIED:20160909T105443Z
+LOCATION:Espaço Brasil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:CVsP++ release 4.5 ­ Como viver sem o Photoshop
+TRANSP:TRANSPARENT
+CATEGORIES:Gráficos e Multimídia(#000000/#F4B028)\,Segurança(#000000/#E7618
+ B)
+CONTACT:Elias Silveira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142515Z
+UID:110@2@129@1854
+CREATED:20161011T142515Z
+DESCRIPTION:Ter uma boa ideia é o primeiro passo para ter um negócio transf
+ ormador. Para isso\, a execução de práticas de gestão e possuir comportamen
+ to empreendedor são fundamentais. Nessa palestra você vai conhecer ferramen
+ tas importantes para entender melhor o caminho a ser trilhado e como você p
+ recisa se adaptar a ele.
+LAST-MODIFIED:20161011T124618Z
+LOCATION:Espaço Paraguai
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Da ideia ao modelo de negócio: Como o empreendedorismo pode te ajud
+ ar!?
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Sávio Carnaúba
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142515Z
+UID:110@2@130@1661
+CREATED:20161011T142515Z
+DESCRIPTION:Foco: Destina-se a estudantes em formação e/ou pessoas que estã
+ o buscando seu primeiro emprego web\nDetalhes: Falarei como e possível mesm
+ o não tem nunca trabalhado com web\, obter não apenas o primeiro emprego\, 
+ mas quem sabe sua primeira empresa.
+LAST-MODIFIED:20161003T201357Z
+LOCATION:Espaço Uruguai
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Quero Empreender na Web e Agora ? JOOMLA CMS!
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)\,Segurança(#000000/
+ #E7618B)
+CONTACT:Claudeir Ribeiro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142515Z
+UID:110@2@131@1667
+CREATED:20161011T142515Z
+DESCRIPTION:Ensino de programação com Python
+LAST-MODIFIED:20160909T122906Z
+LOCATION:Espaço Bolívia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Ensino de programação com Python - O começo!
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Álvaro Fernandes de Abreu Justen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@2@132@1771
+CREATED:20161011T142516Z
+DESCRIPTION:Reunião para alinhar sobre o jogo do último dia
+LAST-MODIFIED:20160915T203829Z
+LOCATION:Espaço Chile
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Reunião Jogo Captura Bandeira 1
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:EQUIPE CTF
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@2@133@1792
+CREATED:20161011T142516Z
+DESCRIPTION:O projeto da TV laranja visa basicamente  utilizar o raspberry 
+ pi para transformar um  tv analógica em uma “smart tv”. O projeto possibili
+ ta reproduzir novos objetos educacionais com a tecnologia atual para que pr
+ ofessores e alunos tenham acesso a conteúdo educacionais de diversos format
+ os.
+LAST-MODIFIED:20160922T212733Z
+LOCATION:Espaço Peru
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Atualização Televisor Laranja
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:July Engel Saucedo\,Fernando Demarchi Natividade Luiz\,Gustavo dos 
+ Santos Vieira\,Diogo Magrini Furmann
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@2@134@1709
+CREATED:20161011T142516Z
+DESCRIPTION:Instalação\, configuração\, integração\, rapidez e agilidade em
+  automatizar parques de Infraestrututra de TI.
+LAST-MODIFIED:20160911T095133Z
+LOCATION:Espaço Colômbia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Automação/Segurança/Virtualização/Cloud/Monitoramento de Redes: \"A
+ nsible - Rapidez em automatização de configuração\".
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Roberto Yokota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@2@135@1696
+CREATED:20161011T142516Z
+DESCRIPTION:A proposta é levar para o Latinoware uma tentativa de criar uma
+  pequena MicroMaratona de programação para os participantes em forma de ofi
+ cina gratuita aos moldes da SBC. No primeiro dia do evento seria promulgada
+  uma palestra sobre a Maratona de programação no Brasil e como funciona. Es
+ ta palestra é para divulgar o evento mundial e formas de submissão\, result
+ ados do brasil e como levar a ideia para a sua região. O importante é criar
+  um ambiente de programação adequado dentre os participantes\, podendo ser 
+ usado uma variedade grande de tipos de linguagem como Java\, C++\,  Python 
+ etc..
+LAST-MODIFIED:20160922T212725Z
+LOCATION:Espaço Venezuela
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Primeira Micro Maratona de Programação - Parte 1
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)\,Frameworks\, CMS
+  e Linguagens(#ffffff/#F7322D)
+CONTACT:Aléssio Miranda Junior
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@2@136@1694
+CREATED:20161011T142516Z
+DESCRIPTION:Apresentação da rede robolivre\, sua aplicação nas oficinas de 
+ robótica livre\, em projetos sociais e escolas.\nA transformação social e t
+ ecnológica proporcionada pelo uso da robótica e do software livre na educaç
+ ão.
+LAST-MODIFIED:20160911T095232Z
+LOCATION:Espaço Equador
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Robolivre. É fácil fazer!
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Marcos Antonio Rufino do Egito
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@3@128@1731
+CREATED:20161011T142516Z
+DESCRIPTION:Dicas práticas do dia a dia para você deixar seus programadores
+  loucos da vida e procurarem outras empresas que os tratem melhor\, através
+  de exemplos práticos e reais levantados em diversas empresas e comunidades
+ .
+LAST-MODIFIED:20161003T201353Z
+LOCATION:Espaço Brasil
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Como perder os seus melhores programadores
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)\,Segurança(#000000/
+ #E7618B)
+CONTACT:Andre Noel
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@3@129@1719
+CREATED:20161011T142516Z
+DESCRIPTION:Neste bate-papo\, o professor Francisco Isidro mostrará\, por m
+ eio de um monte de atividades legais\, como é fácil aprender a programar - 
+ e como pode ser o máximo usar esses códigos até na sala de aula.
+LAST-MODIFIED:20161003T201414Z
+LOCATION:Espaço Paraguai
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Programação para todas as idades com o Programaê
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Bruno Palma\,Victória Giroto\,Francisco Isidro Massetto
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@3@130@1681
+CREATED:20161011T142516Z
+DESCRIPTION:LibreOffice e ODF\, adoção pela UNESP: Situação atual
+LAST-MODIFIED:20160909T122702Z
+LOCATION:Espaço Uruguai
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:LibreOffice e ODF\, adoção pela UNESP: Situação atual
+TRANSP:TRANSPARENT
+CATEGORIES:LibreOffice(#ffffff/#D13350)
+CONTACT:Valdir Barbosa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@3@131@1664
+CREATED:20161011T142516Z
+DESCRIPTION:No baixo nível\, o que exatamente é um socket? Como o sistema o
+ peracional faz uma interface entre aplicações e a rede? E os WebSockets\, o
+ nde se encaixam? Todas as respostas para essas perguntas serão abordadas ne
+ ssa palestra que visa trazer um pouco de redes pro contexto de programadore
+ s de aplicações. São apresentados a história\, o funcionamento e o futuro d
+ os Sockets\, além de demonstrações de como são feitos protocolos\, servidor
+ es e chats.
+LAST-MODIFIED:20160909T122914Z
+LOCATION:Espaço Bolívia
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Sockets\, a resposta para a pergunta fundamental sobre a Internet\,
+  redes e sistemas distribuídos
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Gustavo Pantuza
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@3@132@1783
+CREATED:20161011T142516Z
+DESCRIPTION:Por que bots? Bots podem ser utilizados em diversos cenários - 
+ desde gerar respostas automáticas no IRC\, Slack ou Github\, até realizar t
+ arefas cotidianas. Bots podem ser capazes de responder emails\, responder p
+ erguntas em chats ou lembrar você de realizar alguma atividade\, sendo muit
+ o mais que uma ferramenta de apoio ao pessoal de Devops. Quais técnicas pod
+ emos utilizar para construis bots com tais funcionalidades? \n\nEssa palest
+ ra apresentará algumas situações onde bots podem lhe ser úteis\, possíveis 
+ arquiteturas e soluções para construí-los e algumas dicas do que pode sair 
+ errado.\n\n\n===============================\n\nDescrição detalhada\n\n\nTó
+ picos\n\n- Bots me ajudando a evitar tarefas repetitivas desde 2009\n\n- Pr
+ imeiros bots (pouco espertos)\n\n- Primeiras tentativas de bots inteligente
+ s via força bruta\n\n- Coletando dados para melhorar a inteligência dos bot
+ s\n\n- Introduzindo Cassandra e Spark na arqutetura\n\n- Interpretando os r
+ esultados e refinando com um pouco de matemática\n\n- Aplicando princípios 
+ básicos de Machine Learning\n\n- Pontos que precisam ser melhorados\n\n- On
+ de você poderia aplicar essas ideias? \n\n- Falhas épicas para descontrair
+LAST-MODIFIED:20161003T212525Z
+LOCATION:Espaço Chile
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Smart bots - a saga
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)\,Frameworks\, CMS
+  e Linguagens(#ffffff/#F7322D)
+CONTACT:Hanneli Tavante
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@3@133@1702
+CREATED:20161011T142516Z
+DESCRIPTION:O uso de tecnologias da informação na Educação não é novidade\,
+  as tecnologias proporcionam um vasto território aos professores e alunos n
+ a sala de aula. A adoção de soluções livres no cotidiano dos educandos poss
+ ibilita a quebra de paradigmas\, propiciam um ambiente colaborativo\, onde 
+ os alunos e professores compartilham os conhecimentos\, programas\, dentre 
+ outros. Muitos aplicativos são desconhecidos pelos professores e alunos e o
+  presente trabalho tem por objetivo demonstrar as principais ferramentas li
+ vres para o uso em sala de aula.
+LAST-MODIFIED:20160911T095334Z
+LOCATION:Espaço Peru
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:O Software livre na educação
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Leonardo Silva Moraes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@3@134@1682
+CREATED:20161011T142516Z
+DESCRIPTION:Mostrar as formas de monitoramento de Ativos de rede \,\n\narqu
+ ivos de configurações \, configurações\, instalações . Versões web de visua
+ lização
+LAST-MODIFIED:20160911T095148Z
+LOCATION:Espaço Colômbia
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Monitoramento de Ativos de Redes com Nagios
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Daniel Lara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@3@135@1797
+CREATED:20161011T142516Z
+DESCRIPTION:Com o objetivo de incentivar a inovação e o empreendedorismo em
+  cada um\, apresentamos um relato de experiências da influencia do software
+  livre dentro do ambiente dinâmico da nossa Startup. Após mais de um ano de
+  amadurecimento e pesquisa\, o nosso produto ficou pronto mas percebemos qu
+ e não desenvolvemos apenas um software ou serviço de redes sociais\, mas pa
+ ssamos a fazer parte de uma comunidade aberta. Em tempos em que se fala de 
+ aplicativos e tecnologia\, além da crise no Brasil\, o empreendedorismo gan
+ ha destaque entre os jovens e fazer parte de uma empresa no modelo Startup 
+ passa a ser um sonho. O conceito de sucesso é pessoal\, mas existem muitos 
+ desafios até chegar a este objetivo\, oque poucos percebem é como a utiliza
+ ção de software livre dentro deste ambiente e o compartilhamento de conheci
+ mento  pode ajudar em multo no amadurecimento de um produto\, empresa  e da
+ s pessoas envolvidas.
+LAST-MODIFIED:20160926T133650Z
+LOCATION:Espaço Venezuela
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:O Sucesso de uma Startup baseada em Software Livre.
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Leonardo Kennedy Pacífico
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@4@129@1768
+CREATED:20161011T142516Z
+DESCRIPTION:Sistemas de firewall
+LAST-MODIFIED:20160927T200910Z
+LOCATION:Espaço Paraguai
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Sistemas de firewall
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:João Eriberto Mota Filho
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@4@131@1674
+CREATED:20161011T142516Z
+DESCRIPTION:Como o software livre pode te ajudar a entrar e permanecer no m
+ ercado de trabalho.
+LAST-MODIFIED:20160922T212807Z
+LOCATION:Espaço Bolívia
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Software Livre e o Mercado de Trabalho
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Valéria Barros
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@4@132@1680
+CREATED:20161011T142516Z
+DESCRIPTION:O LibreOffice em qualquer lugar – Como instalar o LibreOffice e
+ m um pendrive.
+LAST-MODIFIED:20161003T212525Z
+LOCATION:Espaço Chile
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:O LibreOffice em qualquer lugar – Como instalar o LibreOffice em um
+  pendrive.
+TRANSP:TRANSPARENT
+CATEGORIES:LibreOffice(#ffffff/#D13350)
+CONTACT:Valdir Barbosa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@4@133@1713
+CREATED:20161011T142516Z
+DESCRIPTION:No final da década de 90\, a Prodabel\, empresa pública de info
+ rmática do município de Belo Horizonte\, criou uma distribuição GNU/Linux c
+ hamada Libertas. O objetivo era criar um sistema para ser utilizado pela ad
+ ministração do município de Belo Horizonte. A ideia original não foi pra fr
+ ente\, mas o projeto foi evoluindo e hoje é a distribuição utilizada em tod
+ os as escolas municipais de Belo Horizonte. Nessa apresentação veremos a si
+ tuação atual do projeto\, sua estrutura de desenvolvimento e o que muda com
+  a adoção do Plasma como ambiente desktop em sua última versão.
+LAST-MODIFIED:20160911T101421Z
+LOCATION:Espaço Peru
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Libertas\, uma personalização da Debian para as escolas de Belo Hor
+ izonte
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Fred Guimarães
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@4@134@1853
+CREATED:20161011T142516Z
+DESCRIPTION:A crescente disponibilização de computação como serviço tem dem
+ andado gerenciamento dinâmico da infraestrutura de comunicação (rede). Essa
+  crescente necessidade tem se mostrado evidente tanto em ambientes internos
+  aos provedores de nuvem quanto nos diversos backbones de distribuição de d
+ ados. As Redes Definidas por Software (Software-Defined Network - SDN) vem 
+ a contribuir na implementação de diferentes novas formas responder ao probl
+ ema de encaminhamento dos dados\, bem como na otimização do tráfego gerado 
+ por determinadas aplicações. Para tanto essas contribuições tem que ser pro
+ jetadas e implementadas com o auxílio de controladores. A palestra discutir
+ á o paradigma SDN e apresentará um estudo de caso utilizando controlador SD
+ N open source.
+LAST-MODIFIED:20161010T115120Z
+LOCATION:Espaço Colômbia
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Redes Definidas por Software - paradigma e uso de software livre
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Adriano Fiorese
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@4@135@1791
+CREATED:20161011T142516Z
+DESCRIPTION:Nesta palestra visa-se apresentar uma introdução ao Ionic Frame
+ work apresentando as tecnologias envolvidas (Cordova\, SaSS\, AngularJS)\, 
+ recursos\, ferramentas disponibilizados pelo Ionic\, primeiros passos para 
+ construir um App\, facilidades em utilizá-lo para desenvolvimento de aplica
+ tivos híbridos e como é relativamente simples iniciar o desenvolvimento com
+  Ionic pois tudo o que você precisa saber é JavaScript\, HTML e CSS.
+LAST-MODIFIED:20160926T132838Z
+LOCATION:Espaço Venezuela
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Iniciando desenvolvimento mobile com Ionic
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)\,Segurança(#00000
+ 0/#E7618B)
+CONTACT:Fabio Barboza
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@4@136@1835
+CREATED:20161011T142516Z
+DESCRIPTION:Ativando a Auditoria em Servidores GNU/Linux
+LAST-MODIFIED:20161005T160616Z
+LOCATION:Espaço Equador
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Ativando a Auditoria em Servidores GNU/Linux
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Jacson Querubin – Spacial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@5@128@1774
+CREATED:20161011T142516Z
+DESCRIPTION:Abertura Latinoware 2016
+LAST-MODIFIED:20160915T204319Z
+LOCATION:Espaço Brasil
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Abertura Latinoware 2016
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T170000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@6@128@1774
+CREATED:20161011T142516Z
+DESCRIPTION:Abertura Latinoware 2016
+LAST-MODIFIED:20160915T204331Z
+LOCATION:Espaço Brasil
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Abertura Latinoware 2016
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@7@128@1780
+CREATED:20161011T142516Z
+DESCRIPTION:The benefits of open source software are certainly not somethin
+ g to which businesses are unfamiliar. But actually working with open source
+  communities is not always something that's easy for those organizations. W
+ orking with open source communities is not something that has to be done by
+  hard-core developers alone. Through events\, documentation\, marketing\, a
+ nd content production\, anyone can be a vital participant in community proj
+ ects. Community Analyst Brian Proffitt will walk attendees through specific
+  examples of community entry paths and best-practice ways to get involved w
+ ith open source.
+LAST-MODIFIED:20160916T174139Z
+LOCATION:Espaço Brasil
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Finding the Secret Community Decoder Ring
+TRANSP:TRANSPARENT
+CATEGORIES:Filosofia e Comunidade(#000000/#3FF921)
+CONTACT:Brian Proffitt
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@7@129@1690
+CREATED:20161011T142516Z
+DESCRIPTION:Você já sentiu isso? Aquele frio na barriga e o coração batendo
+  mais forte? Você não sabe o que\, mas alguma coisa está dando errado no se
+ u teste de penetração. Você não consegue penetrar em nada. Não serão apenas
+  novas técnicas\, mas verdadeiras mudanças na sua visão. Aquele momento que
+  dá um estalo quando você vê como fazer de verdade e que tudo era tão simpl
+ es. Te espero para contar todos os segredos.
+LAST-MODIFIED:20160927T200910Z
+LOCATION:Espaço Paraguai
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:7 Segredos sobre o PenTest e Software Livre que Todos deveriam Sabe
+ r
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)\,Segurança(#000000/#E7618B)
+CONTACT:Alcyon Ferreira de Souza Junior
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@7@130@1663
+CREATED:20161011T142516Z
+DESCRIPTION:SERÁ APRESENTADO EM FORMATO DE PALESTRA OU OFICINA OS NOVOS REC
+ URSOS DO JOOMLA 4.X QUE ESTÁ ENTRE OS SISTEMAS DE GERENCIAMENTO DE CONTEÚDO
+  MAIS UTILIZADOS NO MUNDO E GANHOU EM 2015 O PREMIO DE MELHOR CMS OPEN SOUR
+ CE PARA CRIAÇÃO DE SITES\, PORTAIS E BLOGS.
+LAST-MODIFIED:20160927T201504Z
+LOCATION:Espaço Uruguai
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:CRIE SEU SITE USANDO UM DOS SISTEMAS OPEN SOURCE MAIS UTILIZADOS DO
+  MUNDO: JOOMLA!
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Juliano Augusto de Souza Oliveira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@7@131@1760
+CREATED:20161011T142516Z
+DESCRIPTION:O objetivo da palestra será explicar o que é e como funciona o 
+ Projeto Debian. Haverá a abordagem sobre aspectos históricos\, o ciclo de p
+ rocessamento de pacotes e a organização interna do projeto e dos seus colab
+ oradores\, além de algumas estatísticas interessantes.
+LAST-MODIFIED:20160922T212807Z
+LOCATION:Espaço Bolívia
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Bastidores Debian: entenda como a distribuição funciona
+TRANSP:TRANSPARENT
+CATEGORIES:Mini DebConf(#000000/#50C764)
+CONTACT:João Eriberto Mota Filho
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@7@132@1678
+CREATED:20161011T142516Z
+DESCRIPTION:Qual distribuição Linux é melhor? Uma difícil pergunta a ser re
+ spondida e que gera sempre bons combates\, flame wars e etc e tal\, e aí re
+ unimos então alguns palestrantes do Latinoware e o público presente para qu
+ e em uma gamificação\, discutirmos e votarmos a melhor distribuição linux q
+ ue agrade aos presentes. É na qualidade do debate\, na alegria e ironia ou 
+ na altura do grito\, o que vale é defender a sua e atacar a outra distribui
+ ção e assim tem sido desde 2013 no Latinoware. Este combate/discussuão/pale
+ stra/painel/bate-papo e etc já apresentou como ganhadores Ubuntu\, Debian\,
+  Elementary OS e 2016 será quem?
+LAST-MODIFIED:20160915T203253Z
+LOCATION:Espaço Chile
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Batalha Gamificada das Distribuições Linux
+TRANSP:TRANSPARENT
+CATEGORIES:Filosofia e Comunidade(#000000/#3FF921)\,Segurança(#000000/#E761
+ 8B)
+CONTACT:Luiz Henrique Rauber Rodrigues
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@7@133@1660
+CREATED:20161011T142516Z
+DESCRIPTION:Todos conhecem a Wikipédia\, enciclopédia livre escrita por vol
+ untários que é o quinto site mais acessado do mundo\, mas poucos sabem do m
+ ar de possibilidades existentes no projeto para programadores e pesquisador
+ es de dados.\n\nNessa apresentação serão apresentadas formas de colaborar t
+ ecnicamente com a Wikipédia e seus projetos coirmãos assim como será demost
+ rado como obter metadados públicos para pesquisas.\n\nNessa apresentação pr
+ etende-se expor como se organiza a comunidade Movimento Wikimedia que manté
+ m a Wikipédia e seus projetos coirmãos\, como funciona o MediaWiki\, CMS de
+ senvolvido pela Wikimedia Foundation utilizado em nossos projetos e em milh
+ ares de outros sites e o que são e como desenvolver extensões e gadgets. Ta
+ mbém demonstraremos o que fazem e como criar Bots\, como acessar e o que en
+ contrar em nossa API e nossos projetos de desenvolvimento mobile. Por fim i
+ remos apresentar nossa Central de Dados onde podem ser encontrados resultad
+ os de pesquisas\, dados brutos e instruções sobre como obter dados públicos
+  dos projetos Wikimedia e iremos convidar os presentes a contribuir com os 
+ projetos\, mostrando exemplo de ferramentas desenvolvidas a partir dos dado
+ s da wiki.
+LAST-MODIFIED:20160927T200829Z
+LOCATION:Espaço Peru
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Hackeie a Wikipédia
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)\,Segurança(#000000/#E7618B)
+CONTACT:Henrique Rabelo de Andrade
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@7@134@1708
+CREATED:20161011T142516Z
+DESCRIPTION:Case de Conteúdo Online com Moodle em Alta Disponibilidade util
+ izado em mestrados da UFJF e demais grandes Universidades Federais\, com po
+ nto forte na base de dados MariaDB Galera Cluster.
+LAST-MODIFIED:20160911T095220Z
+LOCATION:Espaço Colômbia
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Moodle - Alta Disponibilidade com MariaDB Galera Cluster
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Roberto Yokota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@7@135@1848
+CREATED:20161011T142516Z
+DESCRIPTION:Web Compatibility é um convite aberto à todos os desenvolvedore
+ s\, usuários da web e desenvolvedores de navegadores para se unirem pela co
+ mpatibilidade web. Aprenda a fazer da Web um lugar mais compatível com todo
+ s e para todos e o melhor de tudo de uma maneira super divertida! Relate er
+ ros e obtenha ajuda na resolução de problemas de compatibilidade em qualque
+ r site. O projeto é desenvolvido por voluntários de todo o mundo e apoiado 
+ pela Mozilla em um esforço global para tornar a web melhor.
+LAST-MODIFIED:20161007T181906Z
+LOCATION:Espaço Venezuela
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Compatibilidade Web – Resolva agora!
+TRANSP:TRANSPARENT
+CATEGORIES:Trilha Mozilla(#000000/#9397E2)
+CONTACT:Geraldo Barros\,Alcides Javier Torres Gutt\,Eduardo Barros
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@7@136@1798
+CREATED:20161011T142516Z
+DESCRIPTION:O Common Open Researh Emulator (CORE) é uma ferramenta de softw
+ are livre para emular redes de computadores\, simples ou complexas\, emulan
+ do as camadas de rede e superiores. Já o Extandable Mobile Ad-hoc Network E
+ mulator (EMANE) é um framework de simulação eficiente das camadas de enlace
+  e física\, focando principalmente em redes sem fio. Dessa forma\, essas du
+ as ferramentas\, em conjunto\, se tornam um poderoso framework para estudos
+  complexos na área de rede\, telecomunicações e segurança da informação.
+LAST-MODIFIED:20160926T134426Z
+LOCATION:Espaço Equador
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Utilizando CORE e EMANE para Pesquisas em Redes e Segurança da Info
+ rmação
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Márcio Murilo Conte Monteiro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@8@128@1659
+CREATED:20161011T142516Z
+DESCRIPTION:Através de exemplos práticos demonstrarei como trabalho com ilu
+ stração editorial utilizando estas ferramentas (MyPaint\, Krita\, Gimp)\, c
+ om suas facilidades e também suas limitações (ninguém é perfeito\, né?) e d
+ e que forma eu as contorno.
+LAST-MODIFIED:20160921T220826Z
+LOCATION:Espaço Brasil
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Pondo a mão na massa – Ilustração digital do esboço à arte finaliza
+ ção com MyPaint\, Krita e Gimp
+TRANSP:TRANSPARENT
+CATEGORIES:Gráficos e Multimídia(#000000/#F4B028)
+CONTACT:Elias Silveira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@8@129@1675
+CREATED:20161011T142516Z
+DESCRIPTION:Público alvo: Técnicos\, profissionais de informática\, educado
+ res\,\nusuários de computador em geral.\nRequisitos de conhecimento: Nenhum
+  pré-requisito é necessário.\nRecursos necessários: Projetor multimídia.\nC
+ onteúdo: Conceitos de distribuição GNU/Linux\, o que é o Debian\, quais seu
+ s compromissos\, como o Debian é desenvolvido\, como se pode colaborar.\nOb
+ jetivos: Apresentar o projeto Debian e estimular a colaboração.\nCarga horá
+ ria: 1h
+LAST-MODIFIED:20160909T122933Z
+LOCATION:Espaço Paraguai
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Uma distro não é apenas seu CD de instalação
+TRANSP:TRANSPARENT
+CATEGORIES:Filosofia e Comunidade(#000000/#3FF921)
+CONTACT:Paulo Oliveira Kretcheu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@8@130@1662
+CREATED:20161011T142516Z
+DESCRIPTION:Foco: Falarei sobre extensoes (Componentes\, Modulos e Plugins)
+ \nDetalhes: Irei apresentar diversas extensões - que possibilitam que o Joo
+ mla se torne desde websites institucionais a portais de venda de passagens 
+ aéreas\, site com reservas de quartos de hotéis\, venda de pacotes de passe
+ ios turísticos\, site de locação de automóveis\, sites para gestão de imobi
+ liaria e etc. – Todos eles apenas utilizando Joomla e seus poderes (compone
+ ntes\, módulos e plugins).
+LAST-MODIFIED:20160927T201504Z
+LOCATION:Espaço Uruguai
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Canivete Suiço ou JOOMLA ?
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)\,Segurança(#00000
+ 0/#E7618B)
+CONTACT:Claudeir Ribeiro
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@8@131@1761
+CREATED:20161011T142516Z
+DESCRIPTION:Você quer contribuir com um projeto de software livre e não sab
+ e por onde começar? Apresentamos as diversas formas de colaborar na constru
+ ção do "Sistema Operacional Universal". Dentro do projeto Debian existem op
+ ortunidades para qualquer força de trabalho e você verá porque contribuir é
+  bom para você também.
+LAST-MODIFIED:20160915T202315Z
+LOCATION:Espaço Bolívia
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Debian: Um universo em construção
+TRANSP:TRANSPARENT
+CATEGORIES:Mini DebConf(#000000/#50C764)\,Segurança(#000000/#E7618B)
+CONTACT:Giovani Augusto Ferreira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@8@132@1673
+CREATED:20161011T142516Z
+DESCRIPTION:É fácil discutir sobre privacidade com ativistas\, hackers e es
+ tudiosos do assunto. Mas como explicar para usuários comuns das redes socia
+ is o porquê de se preocupar com privacidade e com seus dados? Essa palestra
+  é uma proposta de debate para os jovens milleniuns\, nascidos no olho do f
+ uracão das redes sociais\, dos emails e dos sites de buscas\, para se atent
+ arem sobre o quanto vale sua informação\, e pra quem isso interessa. Vamos 
+ descobrir que a NSA não é nosso único problema\, e que não são apenas os da
+ dos de hackers\, jornalistas ou militantes que importam. Os seus dados são 
+ seus!
+LAST-MODIFIED:20160922T212740Z
+LOCATION:Espaço Chile
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Privacidade Importa
+TRANSP:TRANSPARENT
+CATEGORIES:Filosofia e Comunidade(#000000/#3FF921)
+CONTACT:Valéria Barros
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@8@133@1679
+CREATED:20161011T142516Z
+DESCRIPTION:Um painel é quando pessoas se reunem para falar dum tema. Bem\,
+  e é isso. Vamos reunir aqui palestrantes e convidados deste evento que ten
+ ham relação com software livre\, cultura hacker/ maker e claro educação par
+ a responder perguntas da platéia\, falarmos de ideias e projetos\, rirmos\,
+  contar histórias e mais\, sendo que principalmente queremos é repassar inf
+ ormações e conhecimento sempre úteis e aplicáveis sobre a temática.
+LAST-MODIFIED:20161005T160206Z
+LOCATION:Espaço Peru
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Software Livre\, Cultura Hacker/ Maker e a Educação
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)\,Segurança(#000000/#E7618B)
+CONTACT:Luiz Henrique Rauber Rodrigues
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@8@134@1715
+CREATED:20161011T142516Z
+DESCRIPTION:Palestra voltada para pessoal que queiram utilizar o bacula \, 
+ mas não sabem por onde começar \, vamos mostrar de uma forma amigavel a uti
+ lizar a ferramenta \, dicas \, tutoriais\, foruns para pesquisa
+LAST-MODIFIED:20160911T102055Z
+LOCATION:Espaço Colômbia
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Bacula para iniciantes
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Daniel Lara
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@8@135@1784
+CREATED:20161011T142516Z
+DESCRIPTION:CSS3 ainda está em implementação\, mas a W3C já está trabalhand
+ o para o lançamento do CSS4. Essa nova especificação\, ainda não suportada 
+ pelos navegadores\, já contempla dezenas de novas regras para tornar a vida
+  dos desenvolvedores web mais fácil. Nesta palestra iremos conferir as novi
+ dades que nos aguardam\, propriedades novas\, propriedades reintroduzidas e
+  como já podemos começar a testar as novidades.
+LAST-MODIFIED:20160921T212154Z
+LOCATION:Espaço Venezuela
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:O que esperar do CSS4
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Erik Guimarães
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@8@136@1800
+CREATED:20161011T142516Z
+DESCRIPTION:O software livre Blender fornece um conjunto de ferramentas inc
+ rivelmente poderosas para o cinema de animação narrativa\, mas a velocidade
+  e o poder que ele tem permite também a criação de imagens em movimento par
+ a o mundo do design gráfico em movimento. O Motion Design é uma área do des
+ ign onde seus profissionais são responsáveis pela produção de vinhetas de i
+ dentidade\, sequências de título\, animações de logotipos e títulos dos pro
+ gramas de TV que você vê todos os dias. Além disso\, também abrange a produ
+ ção de vídeos de demonstração que envolvem a prototipação e a experiência d
+ e usuários (UX). Está interessado em produzir motion design? Quer saber se 
+ o Blender tem potencial para demonstrar seu produto ou serviço? Quer ver ex
+ emplos de produções nessa área feitas através desse polivalente\, multiface
+ tado e eclético software? Então esta palestra é para você! :)
+LAST-MODIFIED:20160926T165703Z
+LOCATION:Espaço Equador
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Blender e Motion Design: uma combinação animada!
+TRANSP:TRANSPARENT
+CATEGORIES:Gráficos e Multimídia(#000000/#F4B028)\,Segurança(#000000/#E7618
+ B)
+CONTACT:Fabianne Balvedi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T200000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@9@128@1689
+CREATED:20161011T142516Z
+DESCRIPTION:Standup - A arte de manipular pessoas\nOs humanos são falhos e 
+ esta palestra bem humorada tem o objetivo de apresentar como as pessoas são
+  enganadas por estelionatários através da internet\, como são realizadas as
+  manipulações e onde está a fraqueza humana.
+LAST-MODIFIED:20160921T220756Z
+LOCATION:Espaço Brasil
+SEQUENCE:9
+STATUS:CONFIRMED
+SUMMARY:Standup - A arte de manipular pessoas
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)\,Segurança(#000000/#E7618B)
+CONTACT:Alan Sanches
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T200000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@9@129@1833
+CREATED:20161011T142516Z
+DESCRIPTION:Os Termos de Uso de apps e sites funcionam como contratos para 
+ estes serviços\, e as Políticas de Privacidade regram a coleta\, tratamento
+  e armazenamento dos dados dos usuários. São documentos essenciais para qua
+ lquer tipo de site ou app\, mas que muitas vezes\, não recebem a devida ate
+ nção dos responsáveis pelo negócio. Você sabe quais são os itens essenciais
+  que devem existir nesses documentos? Qual é a validade e importância juríd
+ ica desses documentos? E o que muda se o Projeto de Lei sobre privacidade e
+  proteção de dados entrar em vigor? Essas questões e tantas outras serão ab
+ ordadas pela Dra. Gisele Truzzi em sua exposição.
+LAST-MODIFIED:20161005T122149Z
+LOCATION:Espaço Paraguai
+SEQUENCE:9
+STATUS:CONFIRMED
+SUMMARY:TERMOS DE USO E POLÍTICAS DE PRIVACIDADE PARA APPS E SITES. O que m
+ uda com o novo  Projeto de Lei (PL 5276/2016).
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Gisele Truzzi
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161019T200000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:110@9@130@1864
+CREATED:20161011T142516Z
+DESCRIPTION:Apresentação de softwares livres que já se encontram disponívei
+ s e estão conquistando seu espaço no mercado. Ferramentas estas utilizadas 
+ no intuito de chegar a um produto final mais profissional.\n\n\nTrilhando p
+ or este caminho nos deparamos com a realidade de um homestudio: construção 
+ de trilhas por meio de midis onde as mudanças necessárias de timbres ocorre
+ m através da utilização de soundfonts e DAWs .
+LAST-MODIFIED:20161010T175001Z
+LOCATION:Espaço Uruguai
+SEQUENCE:9
+STATUS:CONFIRMED
+SUMMARY:Do Midi a Música utilizando Software Livre
+TRANSP:TRANSPARENT
+CATEGORIES:Gráficos e Multimídia(#000000/#F4B028)
+CONTACT:Sebastião Carlos
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@1@128@1656
+CREATED:20161011T142516Z
+DESCRIPTION:Nesta palestra veremos como funciona a primeira da API em nuvem
+  baseada em software livre\, o openCertiface. Baseada no Certiface\, uma fe
+ rramenta que utiliza a tecnologia de biometria facial para combater o crime
+  de falsidade ideológica e para proteger as pessoas do bem\, não permite co
+ mpras no mercado com documentação falsa. Tal tecnologia será muito útil na 
+ festa de assinatura de chaves GPG como também IoT entre outras aplicabilida
+ des. Mais informações em http://opencertiface.com.br
+LAST-MODIFIED:20160909T105019Z
+LOCATION:Espaço Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:openCertiface: Biometrica Facial em nuvem baseada em software livre
+  com IoT
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)\,Segurança(#000000/
+ #E7618B)
+CONTACT:Alessandro de Oliveira Faria (A.K.A. Cabelo)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@1@129@1695
+CREATED:20161011T142516Z
+DESCRIPTION:Empreender não é um papel muito fácil\, principalmente na área 
+ de tecnologia\, eu digo que empreender é lidar com risco\, ou seja\, para v
+ ocê ter uma empr esa bem sucedida é necessário minimizar ao máximo o seu ri
+ sco. Isso é valida na escolha de tecnologia também. Você usar um tecnologia
+  proprietária você vai gastar muito mais do que usar tecnologia Open Source
+ . Vou apresenta como eu (Avelino) faço na escolha de tecnologia para os meu
+ s projetos (empresas). Não adianta você sempre usar tecnologia de tempo sen
+ do que você não encontra profissional para dar continuidade\, você não é o 
+ Google que tem dinheiro para contratar os melhoras profissionais do mundo. 
+ Evoluir a empresa organicamente é melhor do que ter investidor cobrando luc
+ ro.
+LAST-MODIFIED:20161005T124401Z
+LOCATION:Espaço Paraguai
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Como Software Livre pode ajudar a evolução (ou criação) de empresas
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Thiago Avelino
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@1@130@1651
+CREATED:20161011T142516Z
+DESCRIPTION:\"Durante a palestra\, iremos mostrar ao público\, do inicio ao
+  fim\, a criação de um cluster com orquestração de containers\, load balanc
+ er\, high availability\, self healing\, constraints e dns interno somente u
+ tilizando Docker. E o melhor\, de maneira muito simples como tudo no Docker
+ . Iremos abordar todos os conceitos necessários para um bom entendimento so
+ bre as novas features que o Docker 1.12 oferece.\"
+LAST-MODIFIED:20160909T105058Z
+LOCATION:Espaço Uruguai
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Descomplicando a orquestração de containers!
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)\,Administração d
+ e Redes e Infra(#ffffff/#3080F5)
+CONTACT:Jeferson Fernando
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@1@132@1772
+CREATED:20161011T142516Z
+DESCRIPTION:Reunião Jogo Captura Bandeira 1
+LAST-MODIFIED:20160915T204050Z
+LOCATION:Espaço Chile
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reunião Jogo Captura Bandeira 2
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:EQUIPE CTF
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@1@133@1704
+CREATED:20161011T142516Z
+DESCRIPTION:á pensou em ter as ferramentas necessárias para seu build e/ou 
+ criação de infraestrutura complexa na nuvem\, executando\, em seu servidor 
+ de entrega contínua\, sem precisar abrir ticket? Não importa quão complexa 
+ seja sua necessidade\, você pode ter ela atendida com definições dentro do 
+ seu código. Isto já é possível hoje.\n\nUtilizando imagens docker\, e um po
+ uco de imaginação\, é possível fazer uso de suas habilidades para iniciar c
+ ontainers de vida curta\, que aqui chamamos de \"super comandos\". Eles ter
+ ão como objetivo executar alguma atividade específica\, com todas as biblio
+ tecas na versão necessária\, arquivos de configuração de infraestrutura ger
+ enciado pelo desenvolvedor. Todo processo sendo executado a partir do mesmo
+  agente do serviço de entrega contínua\, que nesse caso precisaria apenas t
+ er o docker instalado no sistema operacional\, ao contrário do modelo anter
+ ior que cada time precisava informar quais as ferramentas precisariam ser i
+ nstalados para atender a cada nova necessidade.\n\nCom o uso de super coman
+ dos é possível compartilhar o mesmo agente de CI/CD para desempenhar papéis
+  distintos e oferecer autonomia para os usuários desse ambiente\, ou seja\,
+  o desenvolvedor a partir desse momento terá controle de todas as ferrament
+ as que ele precisa no pipeline.\n\nPrincipais técnicas abordadas na palestr
+ a:\n\nApresentação do problema da falta de autonomia dos desenvolvedores\;\
+ nDemonstração do conceito de super comando\nDemonstração do conceito no mod
+ elo de pipeline\nDemonstração da solução adotada em pipeline.
+LAST-MODIFIED:20160909T132253Z
+LOCATION:Espaço Peru
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Docker como super comando\, autonomia para o desenvolvedor
+TRANSP:TRANSPARENT
+CATEGORIES:DEVOPS(#000000/#85f899)
+CONTACT:Rafael Brito Gomes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@1@134@1697
+CREATED:20161011T142516Z
+DESCRIPTION:A proposta é levar para o Latinoware uma tentativa de criar uma
+  pequena MicroMaratona de programação para os participantes em forma de ofi
+ cina gratuita aos moldes da SBC. No primeiro dia do evento seria promulgada
+  uma palestra sobre a Maratona de programação no Brasil e como funciona. Es
+ ta palestra é para divulgar o evento mundial e formas de submissão\, result
+ ados do brasil e como levar a ideia para a sua região. O importante é criar
+  um ambiente de programação adequado dentre os participantes\, podendo ser 
+ usado uma variedade grande de tipos de linguagem como Java\, C++\,  Python 
+ etc..
+LAST-MODIFIED:20161005T124335Z
+LOCATION:Espaço Colômbia
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Primeira Micro Maratona de Programação - Parte 2
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Aléssio Miranda Junior
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@1@135@1735
+CREATED:20161011T142516Z
+DESCRIPTION:O que são logs\, por que são importantes para a sua aplicação e
+  como gerá-los em uma aplicação PHP utilizando Monolog.
+LAST-MODIFIED:20160914T212908Z
+LOCATION:Espaço Venezuela
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Logs: Porque um ElePHPant tem que ter boa memória!
+TRANSP:TRANSPARENT
+CATEGORIES:PHP Latinoware 2016(#ffffff/#E33E32)\,Frameworks\, CMS e Linguag
+ ens(#ffffff/#F7322D)
+CONTACT:Er Galvão Abbott
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@1@136@1820
+CREATED:20161011T142516Z
+DESCRIPTION:un panorama de cómo está la industria de la geomática libre en 
+ nuestra región y en el mundo (hacer un repaso de la situación de las distin
+ tas proyectos\, organizaciones y comunidades relacionados con el software y
+  los datos libres geoespaciales: OSGeo\, Geoinquietos\, OpenStreetMap\, Aso
+ c. gvSIG\, etc). ¿Qué organizaciones existen? ¿Quiénes forman parte? ¿Qué c
+ omunidades lideran el desarrollo? ¿Qué herramientas están disponibles? ¿Cuá
+ les se usan más? ¿Dónde y cómo participa el estado? ¿Por qué es tan importa
+ nte la liberación de los datos espaciales? ¿Dónde buscar información? ¿Cómo
+  participar?
+LAST-MODIFIED:20160927T210458Z
+LOCATION:Espaço Equador
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Geotecnologías libres
+TRANSP:TRANSPARENT
+CATEGORIES:LatinoGEO(#000000/#2FBAB9)
+CONTACT:Mauricio Miranda
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@2@128@1657
+CREATED:20161011T142516Z
+DESCRIPTION:Graduado em Design Gráfico pela UFS\, um ativista da ideologia 
+ Open Source e Open Design. Assessor Geral de Projetos e Programas da Secret
+ aria de Estado da Segurança Pública de Sergipe. Consultor em Design Estraté
+ gico\, Design Thinking e Elaboração de Projetos Gráficos.
+LAST-MODIFIED:20160909T105051Z
+LOCATION:Espaço Brasil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Design pra quem não é designer: O que colocar numa apresentação com
+ ercial?
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Jenilson de Jesus Gomes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@2@129@1669
+CREATED:20161011T142516Z
+DESCRIPTION:Os wearables\, ou circuitos vestíveis\, estão cada vez mais pre
+ sentes. Basta ver em óculos\, relógios entre outros dispositivos. Nesta apr
+ esentação\, veremos o uso de Arduino em projetos wearables voltados para en
+ tretenimento\, com uso de dispositivo Bluetooth. Serão mostrados como foram
+  concebidos\, seus respectivos diagramas e ao final demonstrados ao vivo.
+LAST-MODIFIED:20160911T095515Z
+LOCATION:Espaço Paraguai
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Wearables conectados - Arduino no mundo do entretenimento
+TRANSP:TRANSPARENT
+CATEGORIES:Hardware e Robótica(#ffffff/#A58400)
+CONTACT:Gedeane Kenshima
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@2@130@1730
+CREATED:20161011T142516Z
+DESCRIPTION:IP's\, Racks\, Servidores\, Switchs\, Clusters\, VM's\, VLan's 
+ e uma infinidade de outros ativos em um datacenter devem ser documentos de 
+ forma simples e completa\, uma das melhores formas de fazer isso é utilizan
+ do o RackTables\, um Software Livre\, com interface web simples e uma infin
+ idade de opções que podem deixar a documentação muito mais completa.
+LAST-MODIFIED:20160916T195441Z
+LOCATION:Espaço Uruguai
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:RackTables - Gerencie seu Data Center com Software Livre
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Diego Neves
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@2@131@1801
+CREATED:20161011T142516Z
+DESCRIPTION:O Shell taí\, bem debaixo do seu nariz... Sem ele não existiria
+  o Linux\, nem o Unix\, ou seja\, não existiria nenhum resquício de um Sist
+ ema Operacional inteligente. E mesmo assim continua a olhá-lo com desdem\, 
+ esforçando-se para ignorá-lo por completo\, achando que o seu mousezinho te
+  levará ao paraíso. \n\nVocê está redondamente enganado!\n\nNessa palestra\
+ , totalmente mão na massa (ou hands on como preferem os almofadinhas de TI)
+ \, Julio Neves mostrará o quanto você está perdendo por não saber usar essa
+   ferramenta maravilhosa\, na qual grandes programas são feitos em poucas l
+ inhas e que está à disposição de todos\, sendo poucos os que tentam aprendê
+ -la.\n\nMostrará também que praticamente todos os problemas dos administrad
+ ores podem ser resolvidos em poucas linhas de código\, desde que se invista
+  um pouquinho de tempo para estudar este excelente interpretador. Temos cer
+ teza que o Julio fará a sua cabeça e você sairá correndo para aprender a pr
+ ogramar em Shell\, pois você verá que não existe linguagem de programação m
+ ais simples e profícua que o Shell.\n\nA palestra será desenvolvida de form
+ a a apresentar as implementações do Bash 4 e mostrar o que há de mais moder
+ no em interfaces gráficas para o Shell\, que\, acreditem\, são fabulosas.
+LAST-MODIFIED:20161003T205018Z
+LOCATION:Espaço Bolívia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Assim na Terra como no Shell
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Julio Cezar Neves
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@2@132@1672
+CREATED:20161011T142516Z
+DESCRIPTION:O projeto linux-libre nasceu da necessidade da comunidade de ma
+ nter em seus sistemas GNU um kernel livre de blobs proprietários\, o linux-
+ libre é o resultado do trabalho dessa comunidade\, entregando assim um kern
+ el 100% livre. Nesta palestra nós vamos ver como instalar o linux-libre no 
+ Debian.
+LAST-MODIFIED:20160916T121713Z
+LOCATION:Espaço Chile
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Instalando um GNU Debian 100% livre
+TRANSP:TRANSPARENT
+CATEGORIES:Mini DebConf(#000000/#50C764)
+CONTACT:Alessandro Moura
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@2@133@1705
+CREATED:20161011T142516Z
+DESCRIPTION:Com a explosão dos microservices temos muitas instâncias de inú
+ meros serviços para gerenciar e esse trabalho não é fácil e muito menos bar
+ ato.\nEncontrar os melhores servidores para rodar todos esses serviços sem 
+ desperdiçar recurso é um ato heróico.\nE tem mais um pequeno detalhe\, o se
+ us serviços precisam estar sempre funcionando.\nO Apache Mesos\, e ferramen
+ tas como Marathon e Chronos\, ajudam a resolver esses problemas. \nNesta pa
+ lestra vou expor como a Jusbrasil está usando o Mesos\, e outras ferramenta
+ s do ecossistema\, para manter os serviços sempre funcionando sem desperdiç
+ ar recurso.
+LAST-MODIFIED:20160909T132307Z
+LOCATION:Espaço Peru
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Otimize seus recursos mantendo um alto uptime dos seus serviços.
+TRANSP:TRANSPARENT
+CATEGORIES:DEVOPS(#000000/#85f899)
+CONTACT:Robson Roberto Souza Peixoto
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@2@134@1778
+CREATED:20161011T142516Z
+DESCRIPTION:Sendo Sysadmin com Software Livre
+LAST-MODIFIED:20161005T124332Z
+LOCATION:Espaço Colômbia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Sendo Sysadmin com Software Livre
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Daniel Lenharo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@2@135@1734
+CREATED:20161011T142516Z
+DESCRIPTION:O mercado de segurança de aplicações PHP vem passando por impor
+ tantes mudanças. Veremos as mudanças mais importantes e como melhorar a seg
+ urança de sua aplicação.
+LAST-MODIFIED:20160914T212912Z
+LOCATION:Espaço Venezuela
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Segurança PHP em 2016
+TRANSP:TRANSPARENT
+CATEGORIES:PHP Latinoware 2016(#ffffff/#E33E32)\,Frameworks\, CMS e Linguag
+ ens(#ffffff/#F7322D)
+CONTACT:Er Galvão Abbott
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@2@136@1814
+CREATED:20161011T142516Z
+DESCRIPTION:A Filosofia do Compartilhamento e da Colaboração na Sala de Aul
+ a: Uma Simbiose Perfeita
+LAST-MODIFIED:20160927T194053Z
+LOCATION:Espaço Equador
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:A Filosofia do Compartilhamento e da Colaboração na Sala de Aula: U
+ ma Simbiose Perfeita
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)\,Educação(#ffffff/#251F2F)
+CONTACT:João Fernando Costa Júnior
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@3@128@1700
+CREATED:20161011T142516Z
+DESCRIPTION:Hoje as empresas estão com muitas dificuldades de gerir pessoas
+  e tecnologias do seculo XXI porque estão presas (amarradas) a ferramentas\
+ , metodologias e modelos de gestão do século passado. A conta não fecha.
+LAST-MODIFIED:20160909T131550Z
+LOCATION:Espaço Brasil
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Como inovar para uma gestão colaborativa e inclusiva através da uni
+ ão de cérebros
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)\,Empreendedorismo e
+  Negócios(#ffffff/#8E0CBC)
+CONTACT:Mauro Carrusca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@3@129@1832
+CREATED:20161011T142516Z
+DESCRIPTION:Espaços hackers ou hackerspaces tem surgido em diversas partes 
+ do mundo nos últimos 15 anos. No Brasil\, várias cidades contam com a atuaç
+ ão de pessoas ligadas a diferentes áreas do conhecimento e que tem se organ
+ izado nesses espaços para estudar\, desenvolver tecnologias e  socializar c
+ onhecimento. Apresentaremos características de alguns hackerspaces brasilei
+ ros\, discutindo alternativas\, limites e possibilidades de se criar um man
+ ter um espaço hackers como um local colaborativo\, coletivo e autogestionár
+ io.
+LAST-MODIFIED:20161003T212614Z
+LOCATION:Espaço Paraguai
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Um hackerspace para chamar de nosso.
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)\,Segurança(#000000/#E7618B)
+CONTACT:Karina Menezes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@3@130@1693
+CREATED:20161011T142516Z
+DESCRIPTION:a palestra tem como objetivo apresentar uma visão geral a respe
+ ito de uma solução de WAF\, que tem como objetivo proteger aplicações Web c
+ riticas. Como base de estudo e testes\, será apresentado o Raptor\, um WAF 
+ (Web Application Firewall) Open Source licenciado sob a GPLv3\, escrito pur
+ amente em C e direcionado para estudos de ataques em aplicações Web\, como 
+ forma de fortalecer e criar metodologias inteligentes para defesa desses am
+ biente. Ele é escrito sob uma lógica simples\, que faz uso de um Proxy Reve
+ rso para realizar diversos filtros\, como: XSS\, SQL Injection\, entre outr
+ os.
+LAST-MODIFIED:20161003T201105Z
+LOCATION:Espaço Uruguai
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Raptor: um WAF Open Source para simulação e estudo de ataques
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Gleudson Pinheiro Varejão Junior
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@3@131@1666
+CREATED:20161011T142516Z
+DESCRIPTION:Conversão e análise de dados tabulares em diversos formatos (od
+ s\,\nxls\, xlsx\, csv\, html etc.) com Python
+LAST-MODIFIED:20161003T205018Z
+LOCATION:Espaço Bolívia
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Conversão e análise de dados tabulares em diversos formatos (ods\, 
+ xls\, xlsx\, csv\, html etc.) com Python
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)\,Empreendedorismo
+  e Negócios(#ffffff/#8E0CBC)
+CONTACT:Álvaro Fernandes de Abreu Justen
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@3@132@1762
+CREATED:20161011T142516Z
+DESCRIPTION:A palestra falará sobre o trabalho feito pelo time de tradução 
+ e como fazer para integrar tal time.
+LAST-MODIFIED:20160915T202646Z
+LOCATION:Espaço Chile
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Entrando para o Time de Tradução do Debian
+TRANSP:TRANSPARENT
+CATEGORIES:Mini DebConf(#000000/#50C764)
+CONTACT:Daniel Lenharo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@3@133@1706
+CREATED:20161011T142516Z
+DESCRIPTION:Com a popularidade da cultura DevOps\, temos hoje uma infinidad
+ e de ferramentas para realizar todo o tipo de tarefas dentro de um pipeline
+  de Continuous Delivery. Nesta palestra\, iremos introduzir um pipeline rea
+ l de CD\, suportado por ferramentas open source. Veremos onde cada ferramen
+ ta se encaixa dentro de cada estágio do pipeline\, assim como discutir técn
+ icas e outras ferramentas aplicáveis.
+LAST-MODIFIED:20160909T132438Z
+LOCATION:Espaço Peru
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Continuous Delivery com ferramentas open source
+TRANSP:TRANSPARENT
+CATEGORIES:DEVOPS(#000000/#85f899)
+CONTACT:Stefan Teixeira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@3@134@1745
+CREATED:20161011T142516Z
+DESCRIPTION:Em um mundo de Cloud\, Virtualização\, DevOps\, Containers\, pr
+ a que você precisa de um Sysadmin? Tá tudo na nuvem\, não tem nenhum hardwa
+ re falhando\, com containers não tem nem sistema operacional. Venha conhece
+ r nessa palestra divertida as 7 razões de porque você não deve chamar um Sy
+ sadmin\, Eu já ouvi todas\, normalmente alguns dias antes de me chamarem po
+ rque algo realmente apertou... Nessa palestra eu vou te dar dicas quentes\,
+  que vão manter o sysadmin longe do seu projeto. E ele vai achar até bom.
+LAST-MODIFIED:20161005T124329Z
+LOCATION:Espaço Colômbia
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:7 razões pra não chamar o Sysadmin...
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)\,Administração d
+ e Redes e Infra(#ffffff/#3080F5)
+CONTACT:Christiano (Linuxmen)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@3@135@1733
+CREATED:20161011T142516Z
+DESCRIPTION:Com a chegada da major mais importante da linguagem em muito te
+ mpo\, saiba o que muda\, quais são as novidades\, as quebras de compatibili
+ dade reversa\, como são decididas as mudanças e principalmente onde obter m
+ ais informações!
+LAST-MODIFIED:20160914T212917Z
+LOCATION:Espaço Venezuela
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Tudo o que você precisa saber sobre PHP7
+TRANSP:TRANSPARENT
+CATEGORIES:PHP Latinoware 2016(#ffffff/#E33E32)\,Frameworks\, CMS e Linguag
+ ens(#ffffff/#F7322D)
+CONTACT:Er Galvão Abbott
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@3@136@1803
+CREATED:20161011T142516Z
+DESCRIPTION:A palestra aborda técnicas e métodos de criação\, produção e fi
+ nalização de Concept Art e Ilustração com uso de softwares livres de pintur
+ a digital\, com maior foco em Krita
+LAST-MODIFIED:20160926T172216Z
+LOCATION:Espaço Equador
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Concept Art e Ilustração com Krita
+TRANSP:TRANSPARENT
+CATEGORIES:Gráficos e Multimídia(#000000/#F4B028)
+CONTACT:Viviane Silva Nonato
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@4@128@1722
+CREATED:20161011T142516Z
+DESCRIPTION:Temas: Transformações digitais\, disrupção\, pensamento linear 
+ x pensamento exponencial\, tecnologias e negócios exponenciais\, velocidade
+ \, colaboração\, criatividade e inovação\n\nBriefing:\nIncertezas\, ambigui
+ dades\, volatilidade\, colaboração intensa\, transformações radicais e negó
+ cios exponenciais. O momento que vivemos é impar na história da humanidade.
+  A digitalização provocou um mundo acelerado e sedento por novidades cada v
+ ez mais espetaculares. Onde isso vai parar? São inúmeras as oportunidades (
+ e também ameaças) que surgem a cada momento\, obrigando-nos a rever nossos 
+ conceitos e nossa forma de viver. Trabalho\, aprendizado\, relações sociais
+  e comerciais... Tudo está em mutação\, pois a transformação constante é a 
+ nova lógica que rege as relações.\n\nA revolução digital trouxe à tona um c
+ onjunto de transformações que estão nos obrigando a substituir o pensamento
+  linear pelo pensamento exponencial para entender a disrupção e os negócios
+  de alto impacto. A palestra faz uma reflexão sobre este cenário e mostra q
+ ue ter uma mentalidade inovadora é o primeiro passo para gerar pessoas expo
+ nenciais e prosperar no atual ambiente de negócios.
+LAST-MODIFIED:20161010T204748Z
+LOCATION:Espaço Brasil
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:O MUNDO EXPONENCIAL:  Como a revolução digital vem provocando o sur
+ gimento de empresas e até pessoas exponenciais
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)\,Segurança(#000000/
+ #E7618B)
+CONTACT:Mauro Carrusca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@4@129@1714
+CREATED:20161011T142516Z
+DESCRIPTION:Imagine uma ciência cuja rotina é processar dados em 60 núcleos
+  de processamento\, construir grafos de 15.000 nós\, simular estruturas tri
+ dimensionais de proteínas com 10.000 aminoácidos e reconstruir sequências d
+ e DNA a partir de dezenas de milhares de fragmentos. E tudo isso usando sof
+ twares livres. Esse é o cotidiano do bioinformata\, um cientista que transi
+ ta entre a Biologia\, a Química e a Computação. Aqui discutiremos um pouco 
+ as diversas áreas de abrangência da Bioinformática e alguns exemplos de sof
+ twares utilizados nessa ciência.
+LAST-MODIFIED:20160911T101439Z
+LOCATION:Espaço Paraguai
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Bioinformática\, uma ciência de números exagerados
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Fred Guimarães
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@4@130@1711
+CREATED:20161011T142516Z
+DESCRIPTION:Instalação\, Configuração\, Deploy/Updates de Servidores Linux 
+ (Fedora/CentOS).
+LAST-MODIFIED:20160911T095537Z
+LOCATION:Espaço Uruguai
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Spacewalk - Gerenciamento de Updates
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Roberto Yokota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@4@131@1805
+CREATED:20161011T142516Z
+DESCRIPTION:O Serviço Federal de Processamento de Dados iniciou em 2004 um 
+ projeto para adotar Software Livre nas estações de trabalho. Esse projeto e
+ voluiu no período e hoje a empresa pública possui 7682 estações de trabalho
+  exclusivamente com Gnu/Linux. A palestra vai abordar desde o início do pro
+ cesso\, do projeto inicial de migração\, dos erros e acertos no processo. F
+ ará ainda uma avaliação do estado atual da implementação\, problemas que ai
+ nda precisam ser superados e principalmente as vantagens obtidas pela empre
+ sa nos 12 anos de uso de software livre em estações de trabalho.
+LAST-MODIFIED:20160926T173939Z
+LOCATION:Espaço Bolívia
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:É possível usar Software Livre no Desktop? Relato de uma experiênci
+ a de 12 anos e 7 mil estações com Gnu/Linux.
+TRANSP:TRANSPARENT
+CATEGORIES:Filosofia e Comunidade(#000000/#3FF921)
+CONTACT:Deivi Lopes Kuhn
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@4@132@1763
+CREATED:20161011T142516Z
+DESCRIPTION:Serão mostrados os passos para organizar eventos no Debian\, co
+ mo Debian Day e Mini ?DebConfs\, além da utilização de stands e totens em c
+ ongressos para a divulgação do projeto e arrecadação de doações.
+LAST-MODIFIED:20160915T202712Z
+LOCATION:Espaço Chile
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Organizando eventos no Debian
+TRANSP:TRANSPARENT
+CATEGORIES:Mini DebConf(#000000/#50C764)
+CONTACT:Giovani Augusto Ferreira\,Daniel Lenharo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@4@133@1707
+CREATED:20161011T142516Z
+DESCRIPTION:Que tal desenvolver em PHP usando um modelo mais rápido\, segur
+ o e enxuto? Usando Docker você poderá empacotar suas aplicações a ponto de 
+ ter rodando na sua máquina a mesma infra que está em produção. Chega de diz
+ er \"Na minha máquina funciona\"! \nVamos nessa palestra demonstrar como é 
+ possível usar Docker para desenvolver e até colocar em produção esse seu có
+ digo.
+LAST-MODIFIED:20160909T132537Z
+LOCATION:Espaço Peru
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Desenvolvendo e e fazendo deploy de aplicações PHP com Docker.
+TRANSP:TRANSPARENT
+CATEGORIES:DEVOPS(#000000/#85f899)
+CONTACT:Juliana Fernandes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@4@134@1836
+CREATED:20161011T142516Z
+DESCRIPTION:Monitorar a TI com o máximo de informações\, de forma rápida e 
+ simplificada é o ideal. Fazer isso com o mínimo de custo de hardware é aind
+ a melhor.\n\nPalestra vai mostrar como é possível monitorar uma empresa com
+  mais de 200 hosts\, entre equipamentos e servidores e milhares de serviços
+  com menos de US$40\,00.\n\nSimples de instalar e fácil de administrar\, fu
+ ncionando em cima do Nagios o Check_MK é um software maduro e permite a emp
+ resas e profissionais autônomos fornecer serviços de monitoração de alto ní
+ vel a um custo muito baixo.
+LAST-MODIFIED:20161005T131141Z
+LOCATION:Espaço Colômbia
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Monitoração profissional com Check_MK e OrangePI
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Vagner Fonseca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@4@135@1736
+CREATED:20161011T142516Z
+DESCRIPTION:esta palestra veremos como utilizar templates SVG para geração 
+ de documentos instantâneos em PHP\, com suporte a imagens\, texto variável\
+ , gráficos e múltiplas páginas. Diga adeus à biblioteca de geração de PDFs 
+ que sempre trouxe alegria e paz para o seu dia a dia #sqn.
+LAST-MODIFIED:20160914T213530Z
+LOCATION:Espaço Venezuela
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:PHP & Templates SVG - Documentos instantâneos
+TRANSP:TRANSPARENT
+CATEGORIES:PHP Latinoware 2016(#ffffff/#E33E32)\,PHP Latinoware 2016(#fffff
+ f/#E33E32)
+CONTACT:Ricardo Coelho
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@4@136@1804
+CREATED:20161011T142516Z
+DESCRIPTION:Nessa palestra irei demonstrar como a mente humana é fácil de s
+ er enganada e manipulada\,\n\nexplicando algumas técnicas de engenharia soc
+ ial e interagindo com o público para demonstração de como a\n\nengenharia s
+ ocial pode ser uma grande arma para obter informações.
+LAST-MODIFIED:20160926T172430Z
+LOCATION:Espaço Equador
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Engenharia social – Manipulando mentes!
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Felipe Garcia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@5@128@1755
+CREATED:20161011T142516Z
+DESCRIPTION:Mesmo diante de tamanha instabilidade política e econômica no B
+ rasil\, o cenário empreendedor vem crescendo e muitas oportunidades têm sur
+ gido. Como identificar oportunidades para empreender e como muitas startups
+  estão driblando as dificuldades através da inovação?
+LAST-MODIFIED:20161010T204750Z
+LOCATION:Espaço Brasil
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Empreendedorismo e a crise: como as startups tem surgido e crescido
+  no Brasil
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)\,Empreendedorismo e
+  Negócios(#ffffff/#8E0CBC)
+CONTACT:Débora Brauhardt
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@5@129@1717
+CREATED:20161011T142516Z
+DESCRIPTION:A palestra visa tentar identificar as razões que apesar de temo
+ s já mais de 30 anos projeto GNU e 20 de gnu/Linux não produzimos uma efeti
+ va transformação na educação. Quais foram nossos acertos\, nossos erros na 
+ caminhada que tivemos pela educação e o SL nos últimos 15 anos. O que fazer
+  para não ficarmos falando para nós mesmo nos Fóruns.
+LAST-MODIFIED:20160911T102902Z
+LOCATION:Espaço Paraguai
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Educação e Software Livre: O passo em Descompasso
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)\,Segurança(#000000/#E7618B)
+CONTACT:Antonio Carlos C. Marques
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@5@130@1815
+CREATED:20161011T142516Z
+DESCRIPTION:Abordagem sobre como a plataforma de processamento distribuído 
+ hadoop\, pode fazer de qualquer empresa\, uma empresa de dados\, e como os 
+ grandes players usam hadoop para responder as necessidades de negócio.
+LAST-MODIFIED:20160927T200430Z
+LOCATION:Espaço Uruguai
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Big Data e Hadoop – O poder da informação
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Thiago Santiago
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@5@131@1703
+CREATED:20161011T142516Z
+DESCRIPTION:Para aquele que sempre pensou em colaborar com projetos de códi
+ go aberto mas não sabe como colaborar? Vamos aprender como utlizar o git pa
+ ra versionamento de software e utilizar o github como rede de social de des
+ envolvedores.
+LAST-MODIFIED:20160914T205511Z
+LOCATION:Espaço Bolívia
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Git para leigos\, aprenda como colaborar com sua comunidade.
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Mikael de Araujo Hadler Costa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@5@132@1764
+CREATED:20161011T142516Z
+DESCRIPTION:14:00 - 14:10\, Thadeu Cascardo: Entenda a Debian Policy\n14:10
+  - 14:20\, Giovani Ferreira: Conheça o Debian Forensics Team\n14:20 - 14:30
+ \, Raphael Mota: ?DebHelper 10: um overview para desenvolvedores\n14:30 - 1
+ 4:40\, Raphael Mota: Novidades do APT (Advance Package Tool)\n14:40 - 14:50
+ \, Eriberto Mota: Mulheres do meu Brasil\, cadê vocês???
+LAST-MODIFIED:20160915T202729Z
+LOCATION:Espaço Chile
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Lightning Talks (palestras de até 10 minutos)
+TRANSP:TRANSPARENT
+CATEGORIES:Mini DebConf(#000000/#50C764)
+CONTACT:João Eriberto Mota Filho\,Thadeu Cascardo\,Giovani Augusto Ferreira
+ \,Raphael Mota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@5@133@1756
+CREATED:20161011T142516Z
+DESCRIPTION:Resumo: foi desenvolvida uma solução tecnológica com a interfac
+ e geo para cruzamento de dados tabulares referente ao cadastro socioeconômi
+ co de população de área de risco de desastres com camadas geoespaciais. A p
+ artir da metodologia de hierarquização de elementos de análise AHP foi feit
+ a desenvolvida uma aplicação multicritério para definição de índices de deb
+ ilidade ao deslocamento em caso de emergência. Essa ferramenta permite indi
+ car a localizar em mapa as casas das familias que apresentam maior debilida
+ de e planejar de forma efetiva ações de resgate ou planos de reassentamento
+  preventivos.
+LAST-MODIFIED:20161005T123333Z
+LOCATION:Espaço Peru
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Aplicação do pentaho em plano de emergência de barragens.
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Sabrina Torres Nunes de Lima
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@5@134@1779
+CREATED:20161011T142516Z
+DESCRIPTION:Resumo da palestra:\n\nPalestra apresentando as novidades da fe
+ rramenta e as possibilidades de integração / customização\n\nnativa e atrav
+ és de hacks. Serão apresentados também plugins de comunidade.
+LAST-MODIFIED:20160916T172418Z
+LOCATION:Espaço Colômbia
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Zabbix 3 - Novidades e customização
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Adail Henrique Spínola Horst
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@5@135@1737
+CREATED:20161011T142516Z
+DESCRIPTION:Nesta palestra discutiremos charsets e encodings\, aprendendo a
+ s diferenças\, as vantagens e desvantagens de usar cada um dos diversos dis
+ poníveis e\, por fim\, mostraremos porque o UTF-8 é o último encoding que v
+ ocê precisará usar.
+LAST-MODIFIED:20160914T213536Z
+LOCATION:Espaço Venezuela
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:UTF-8: O último encoding que você precisará
+TRANSP:TRANSPARENT
+CATEGORIES:PHP Latinoware 2016(#ffffff/#E33E32)\,PHP Latinoware 2016(#fffff
+ f/#E33E32)
+CONTACT:Ricardo Coelho
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@5@136@1808
+CREATED:20161011T142516Z
+DESCRIPTION:Atualmente\, os analistas de segurança devem ir além de uma pos
+ tura reativa\, deve-se assumir que a quebra de perímetro já ocorreu e\, de 
+ forma iterativa\, pesquisar na rede por indicadores de comprometimento\, ip
+ s\, logs e outros conjuntos de dados para detectar e responder a ameaças. T
+ écnica conhecida como \"Threat Hunting\".\nThreat Hunting vai além das técn
+ icas de detecção baseadas em assinaturas. Ao invés disso utiliza abordagem 
+ orientada à hipóteses e é muitas vezes apoiada por análises comportamentais
+ . Nesta palestra falaremos de ferramentas grátis e opensource e como podemo
+ s montar um ambiente para detectar tais ameaças.
+LAST-MODIFIED:20161005T131132Z
+LOCATION:Espaço Equador
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Hunting season\, open tools !
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Felipe Proteus
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T170000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@6@128@1794
+CREATED:20161011T142516Z
+DESCRIPTION:Depois da Era dos Unicórnios as startps e Makerspace\, entram n
+ a Era das\nBaratas. A palestra tem uma visão diferente sobre Startups e\nMa
+ kerspace\, falando das dificuldades do dia a dia e das maneiras como é\nvis
+ to o empreendedorismo atualmente. Nos queremos mostrar a verdadeira\nrealid
+ ade sobre ambos\, como O Movimento Maker não é nada novo. Na\nverdade\, a c
+ ultura do DIY (Do-it-Yourself)/”faça você mesmo”  já existe\nhá muitas déca
+ das e que as empresas juniores do passado mudaram de nome\npara Startup\, m
+ as não levaram o conceito das mesmas.
+LAST-MODIFIED:20161010T204805Z
+LOCATION:Espaço Brasil
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Bora trabalhar que ganhamos mais !
+TRANSP:TRANSPARENT
+CATEGORIES:Filosofia e Comunidade(#000000/#3FF921)
+CONTACT:Pacman (Alexandre Pereira)\,Silvio Palmieri
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T170000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@6@129@1716
+CREATED:20161011T142516Z
+DESCRIPTION:Ensinar linguagem de programação para crianças e jovens é um de
+ safio que com o Scratch pode ser feito de maneira intuitiva e muito diverti
+ da. Para isso\, ele trabalha em um ambiente interativo. O Scratch é um soft
+ ware livre desenvolvido pelo Massachusetts Institute of Technology (MIT)\, 
+ dos Estados Unidos\, com fins educacionais\, que será apresentada na palest
+ ra “Possibilidades Educativas com o Scratch”\, apresentando possibilidades 
+ de aprendizagem\, sendo um propulsor a criações através da linguagem de pro
+ gramação\, criação de jogos e animações\, despertando o raciocínio lógico\,
+  resoluções de problemas\, colaboração e a criatividade\, inovando a aprend
+ izagem\, através da combinação de fotos\, desenhos\, fundos e sons.
+LAST-MODIFIED:20160911T102914Z
+LOCATION:Espaço Paraguai
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Possibilidades Educativas com o Scratch
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Débora Denise Dias Garofalo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T170000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@6@130@1710
+CREATED:20161011T142516Z
+DESCRIPTION:Instalação\, Gerenciamento e Deploy de maquinas Virtuais.
+LAST-MODIFIED:20160911T095546Z
+LOCATION:Espaço Uruguai
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Virtualização:  \"oVirt Gereciamento de Virtualização\"
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Roberto Yokota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T170000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@6@131@1806
+CREATED:20161011T142516Z
+DESCRIPTION:Em apenas três anos o Roadsec fez o que parecia inviável: levou
+  eventos sobre hacking\, segurança e tecnologia para cidades afastadas dos 
+ grandes centros brasileiros. Em pouco mais de 36 meses o evento se tornou o
+  maior do tipo no continente\, alcançando público de quase 10 mil participa
+ ntes\, aproximando comunidades e regiões que pareciam definitivamente isola
+ das. O que a experiência dos organizadores pode contribuir com outras inici
+ ativas similares\, sejam comerciais ou voltadas pra comunidade? Como juntar
+  pessoas em volta de uma ideia? Como fazer sua própria conferência? Essas e
+  outras perguntas serão respondidas nessa palestra\, diretamente pelo seu i
+ dealizador.
+LAST-MODIFIED:20160926T175909Z
+LOCATION:Espaço Bolívia
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Hacking hacking conferences
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)\,Segurança(#000000/#E7618B)
+CONTACT:Anderson Ramos
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T170000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@6@132@1765
+CREATED:20161011T142516Z
+DESCRIPTION:Bugs significam apenas Problemas? O sistema de Bugs é peça fund
+ amental do ecossistema Debian porque\, além de proporcionar um canal entre 
+ usuários e desenvolvedores\, o BTS auxilia o gerenciamento do fluxo de trab
+ alho de todo o projeto. Será apresentado como funcionam as consultas e tamb
+ ém os diversos comandos e parâmetros do sistema.
+LAST-MODIFIED:20160915T202739Z
+LOCATION:Espaço Chile
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Conhecendo o Debian Bug Tracking System (BTS)
+TRANSP:TRANSPARENT
+CATEGORIES:Mini DebConf(#000000/#50C764)
+CONTACT:Giovani Augusto Ferreira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T170000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@6@133@1816
+CREATED:20161011T142516Z
+DESCRIPTION:Apresentar um resumo de alguns ferramentas de automação e monit
+ oramento\, para auxiliar na administração e automação do ambiente\, maximiz
+ ando resultados e melhorandos os indicadores.\n\nSerão apresentados o uso d
+ as ferramentas: Foreman\, Puppet\, Ansible\, Git e Zabbix
+LAST-MODIFIED:20160927T201136Z
+LOCATION:Espaço Peru
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Bom administrador de sistemas é o que não trabalha\, administra.
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)\,Administração d
+ e Redes e Infra(#ffffff/#3080F5)
+CONTACT:Rafael de Souza Godinho
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T170000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@6@134@1782
+CREATED:20161011T142516Z
+DESCRIPTION:Ao longo dos últimos 20 anos\, os avanços nas redes de Datacent
+ ers limitaram-se à evolução na velocidade de interfaces\, arquitetura inter
+ na de hardware dos elementos de rede e de funcionalidades relacionadas a pe
+ rformance e estabilização de protocolos de camada 2. Este modelo\, outrora 
+ eficiente para endereçar as necessidades dessa geração de TI\, não é mais s
+ uficiente para suportar os requisitos de capacidade\, agilidade e automação
+  necessários em novo estilo de TI cada vez mais aberto e definido por Softw
+ are.
+LAST-MODIFIED:20160921T180209Z
+LOCATION:Espaço Colômbia
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Software-Defined Networks: A Transformação dos Datacenters Definido
+ s por Software.
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:André Vasquez
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T170000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@6@135@1738
+CREATED:20161011T142516Z
+DESCRIPTION:Descrição: While they have been around for ages\, job queues ar
+ e often left out of the sweet of tools most web developers utilize. As a re
+ sult we are worsening the experience of our users by making them wait for t
+ hings they should not be waiting for.\n\nIn this session I will not only in
+ troduce the concept of job queues and explain how they come to solve this p
+ roblem\, but also illustrate how their usage will make our code more modula
+ rized\, stable\, testable\, and scalable.\n\nWe will navigate through the d
+ ifferent alternatives for job queues (from Gearman to RabbitMQ\, among othe
+ rs)\, and we will end up focusing on Disque\, a recently published in memor
+ y queue developed by non other than Salvatore Sanfilippo\, the creator of R
+ edis\, focusing on its PHP integration by means of disque-php\, a library I
+  created.
+LAST-MODIFIED:20160914T213541Z
+LOCATION:Espaço Venezuela
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Stop making the user wait! Job queues to the rescue
+TRANSP:TRANSPARENT
+CATEGORIES:PHP Latinoware 2016(#ffffff/#E33E32)\,PHP Latinoware 2016(#fffff
+ f/#E33E32)
+CONTACT:Er Galvão Abbott
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T170000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@6@136@1837
+CREATED:20161011T142516Z
+DESCRIPTION:Stand up apresentando contos com técnicas e aplicativos para au
+ mentar sua produtividade através da arte milenar da organização pessoal!
+LAST-MODIFIED:20161005T131507Z
+LOCATION:Espaço Equador
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Hackeando sua \"to do list\" com muita habilidade  (e aplicativos t
+ ambém)!
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Júlio César Medina Madruga
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@7@128@1834
+CREATED:20161011T142516Z
+DESCRIPTION:As Start Ups impactaram o mundo dos negócios\, abriram novos me
+ rcados de consumo e nos brindaram com tecnologias disruptivas\, até inimagi
+ náveis ao homem moderno. Impactam: empresas tradicionais\, mercado de traba
+ lho\, residências\, agricultura\, energia\, indústria\, serviços em geral e
+  investimentos (anjo)\; atinge de forma avassaladora tudo o que pode imagin
+ ar. Você está preparado para participar da principal onda de impacto\, nunc
+ a antes vista ou vivenciada? Venha conhecer a importância do investimento a
+ njo aos negócios Startups!
+LAST-MODIFIED:20161010T204913Z
+LOCATION:Espaço Brasil
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Investimento Anjo & Startups - Anjos do Brasil
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Rodrigo Quinalha
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@7@129@1718
+CREATED:20161011T142516Z
+DESCRIPTION:O século XXI desafia a educação\,em especial\, o professor. Qua
+ l o seu papel atual? Como as diferentes fontes de informação e tecnologias 
+ podem contribuir para uma aprendizagem efetiva? Como podemos repensar os pr
+ ocessos educacionais ? Quando o transmissor de conteúdos acaba e se inicia 
+ o designer da aprendizagem? Assim como o herói\, o professor recebe o chama
+ do para aventura. Em sua jornada\, ele deve superar as provações objetivand
+ o regressar com seu elixir. Gotcha !
+LAST-MODIFIED:20160911T104711Z
+LOCATION:Espaço Paraguai
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:A Grande Jornada do Herói na Educação do Século XXI ou Como ser pro
+ fessor nos tempos atuais.
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Francisco Velasques
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@7@130@1818
+CREATED:20161011T142516Z
+DESCRIPTION:Modelo de avaliação da qualidade de sofware aplicado no conceit
+ o de integração contínua (testes unitários\, inspeção de códico-fonte\, ins
+ peção de requisitos\, testes funcionais\, testes de performance).
+LAST-MODIFIED:20160927T202633Z
+LOCATION:Espaço Uruguai
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Qualidade de Software na Integração Contínua
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Ronaldo Rodrigues de Melo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@7@131@1721
+CREATED:20161011T142516Z
+DESCRIPTION:A Internet das Coisas (IoT) já é uma realidade e apresenta\ndes
+ afios que demandam novas abordagens de segurança. Nesse novo cenário\,\nnov
+ as vulnerabilidades surgem e outras bem conhecidas podem ser\nexploradas. N
+ essa palestra\, a partir do relato de algumas ameaças e\nataques\, serão an
+ alisados os riscos de conectar \"coisas\" à IoT sem\nconsiderar a segurança
+ .
+LAST-MODIFIED:20161005T122652Z
+LOCATION:Espaço Bolívia
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Segurança em IoT: Novos desafios\, velhos problemas
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Miriam von Zuben
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@7@132@1766
+CREATED:20161011T142516Z
+DESCRIPTION:Será evidenciada a principal técnica de empacotamento utilizada
+  pela distribuição Debian\, que é a ?DebHelper. A palestra\, em grande part
+ e demonstrativa\, abordará o processo completo de um empacotamento\, mostra
+ ndo como é gerado um arquivo .deb\, seguindo os rigorosos padrões exigidos 
+ pelo Debian.
+LAST-MODIFIED:20160915T202751Z
+LOCATION:Espaço Chile
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Empacotamento de software no Debian
+TRANSP:TRANSPARENT
+CATEGORIES:Mini DebConf(#000000/#50C764)\,Segurança(#000000/#E7618B)
+CONTACT:João Eriberto Mota Filho
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@7@133@1817
+CREATED:20161011T142516Z
+DESCRIPTION:Uma palestra cómica\, que visa discutir os parâmetros mais util
+ izados nas configurações do PostgreSQL\, a fim de obter melhor performance 
+ no banco de dados englobando as atividades do dia a dia para recovering e a
+ mbientes OLTP e/ou Data warehouse\;
+LAST-MODIFIED:20160927T202007Z
+LOCATION:Espaço Peru
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Tunning PostgreSQL em modo OGRO
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Gerdan Rezende dos Santos
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@7@134@1790
+CREATED:20161011T142516Z
+DESCRIPTION:Mostra o conceito que permeia o projeto OpenStack\, sua arquite
+ tura e aplicabilidade na vida real. Como toda esta parafernália pode fazer 
+ o dia a dia de TI mais fácil mostrando exemplos práticos e suas aplicações.
+  Como entregar benefícios que resultem em ganhos de produtivide.
+LAST-MODIFIED:20160926T184255Z
+LOCATION:Espaço Colômbia
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:OpenStack – Arquitetura e Aplicabilidade
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Rafael Cardoso
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@7@135@1739
+CREATED:20161011T142516Z
+DESCRIPTION:PHP7
+LAST-MODIFIED:20160914T213546Z
+LOCATION:Espaço Venezuela
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:PHP7
+TRANSP:TRANSPARENT
+CATEGORIES:PHP Latinoware 2016(#ffffff/#E33E32)
+CONTACT:Er Galvão Abbott
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T180000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@7@136@1688
+CREATED:20161011T142516Z
+DESCRIPTION:Vamos falar de como começar a utilizar softwares livres para as
+  artes gráficas\, área de criação\, como recortar e tratar imagens\, diagra
+ mar\, fazer edições de áudio e vídeo e como aprender 3D para impressão. É u
+ m apanhado que a palestrante faz sobre suas próprias experiências na transi
+ ção de softwares proprietários para softwares livres. Venha conhecer\, deba
+ ter e trocar ideias de como seguir um caminho livre na área da comunicação\
+ , marketing\, webdesign\, jornalismo e publicidade.
+LAST-MODIFIED:20161005T160504Z
+LOCATION:Espaço Equador
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Como usar softwares livres para fazer artes gráficas\, edições de á
+ udio e vídeo e 3D para  impressão
+TRANSP:TRANSPARENT
+CATEGORIES:Gráficos e Multimídia(#000000/#F4B028)
+CONTACT:Barbara Tostes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@8@128@1692
+CREATED:20161011T142516Z
+DESCRIPTION:A Internet das Coisas é a nova revolução na Indústria de tecnol
+ ogia\, e durante a apresentação vamos mostrar quais foram os principais asp
+ ectos técnicos e econômicos explicam o surgimento da Internet das Coisas na
+  atualidade. Mostraremos ainda referências para estudos e aprofundamento no
+  tema\, bem como bibliotecas e projetos interessantes\, além de dicas sobre
+  como começar a desenvolver no mundo de IoT\, e claro\, falamos sobre o pap
+ el chave do Software de Código Aberto e das comunidades de desenvolvimento 
+ nesse novo mundo de coisas conectadas.
+LAST-MODIFIED:20160911T095623Z
+LOCATION:Espaço Brasil
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Internet das Coisas - A nova fronteira para o desenvolvedor
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)\,Keynote(#000000/#B4B7DB)
+CONTACT:Jomar Silva
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@8@129@1720
+CREATED:20161011T142516Z
+DESCRIPTION:Os recursos digitais estão cada vez mais presentes nas escolas 
+ e com isso novas práticas educativas têm sido desenvolvidas no sentido de p
+ romover o letramento e a inclusão digital. O software Luz do Saber Infantil
+  auxilia no processo de alfabetização e letramento e tem como objetivo a bu
+ sca da superação desta problemática nacional. Apresentaremos as gênesis teó
+ ricas\, técnicas e pedagógicas na qual é possível mudar os índices de alfab
+ etização dos estudantes\, expondo uma experiência com 50.000 alunos e 1115 
+ professores que têm reconhecido a importância da utilização dos recursos di
+ gitais com esta finalidade.
+LAST-MODIFIED:20160912T105749Z
+LOCATION:Espaço Paraguai
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:O uso das tecnologias digitais na busca da superação do analfabetis
+ mo
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Marcos Dionísio Ribeiro do Nascimento
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@8@130@1750
+CREATED:20161011T142516Z
+DESCRIPTION:OpenStack sem mistérios.
+LAST-MODIFIED:20160915T121356Z
+LOCATION:Espaço Uruguai
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:OpenStack sem mistérios.
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Marcos Sungaila
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@8@131@1677
+CREATED:20161011T142516Z
+DESCRIPTION:Público alvo: Técnicos\, profissionais de informática\, educado
+ res\, usuários de computador em geral.\nRecursos necessários: Projetor mult
+ imídia.\nObjetivos: Discutir o momento atual do movimento dos Softwares Liv
+ res\, suas dificuldades\, como as pessoas podem colaborar.
+LAST-MODIFIED:20160915T121346Z
+LOCATION:Espaço Bolívia
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Mesa redonda: O futuro do Software Livre\, quais os desafios atuais
+ .
+TRANSP:TRANSPARENT
+CATEGORIES:Filosofia e Comunidade(#000000/#3FF921)
+CONTACT:Paulo Oliveira Kretcheu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@8@132@1767
+CREATED:20161011T142516Z
+DESCRIPTION:Palestra proferida por pessoas que participam ativamente do Deb
+ ian\, como empacotadores\, tradutores\, organizadores de eventos etc.\, con
+ tando sobre a sua experiência de entrada e trabalho no Debian.
+LAST-MODIFIED:20160915T202808Z
+LOCATION:Espaço Chile
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Eu\, você e o Debian: como foi a minha entrada no Debian e como voc
+ ê poderá entrar
+TRANSP:TRANSPARENT
+CATEGORIES:Mini DebConf(#000000/#50C764)\,Mini DebConf(#000000/#50C764)
+CONTACT:João Eriberto Mota Filho\,Giovani Augusto Ferreira\,Raphael Mota
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@8@133@1813
+CREATED:20161011T142516Z
+DESCRIPTION:Ceph é um sistema de arquivos distribuído projetado para ter ex
+ celente desempenho\, confiabilidade e escalabilidade. Nesta palestra será a
+ bordada a arquitetura do Ceph e também seus principais casos de uso.
+LAST-MODIFIED:20160927T193707Z
+LOCATION:Espaço Peru
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Introdução ao Ceph
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Leo Vaz
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@8@134@1781
+CREATED:20161011T142516Z
+DESCRIPTION:RESERVADO PARA ORGANIZAÇÃO DO TORNEIO CTF
+LAST-MODIFIED:20160920T210021Z
+LOCATION:Espaço Colômbia
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:RESERVADO
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@8@135@1740
+CREATED:20161011T142516Z
+DESCRIPTION:PHP8
+LAST-MODIFIED:20160914T213552Z
+LOCATION:Espaço Venezuela
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:PHP8
+TRANSP:TRANSPARENT
+CATEGORIES:PHP Latinoware 2016(#ffffff/#E33E32)
+CONTACT:Er Galvão Abbott
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161020T190000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:111@8@136@1843
+CREATED:20161011T142516Z
+DESCRIPTION:A área de segurança da informação\, assim como outras na tecnol
+ ogia\, esta sempre em constante transformação. Novos desafios\, novos parad
+ igmas e as mudanças no uso da tecnologia como um todo\, afetam os trilhos d
+ essa área que cresce exponencialmente todos os anos. Em um mundo onde carro
+ s\, equipamentos médicos\, e até aviões são controlados por computador\, a 
+ preocupação com segurança sempre se apresentou como prioridade. Essas cresc
+ entes mudanças no cenário\, criaram oportunidades para todos os players\, m
+ as algumas só podem ser aproveitadas pela comunidade Software Livre / Open 
+ Source. Nessa palestra vou oferecer um panorama de pra onde vai a segurança
+ \, e onde estão as oportunidades para a comunidade livre.
+LAST-MODIFIED:20161007T132209Z
+LOCATION:Espaço Equador
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Desafios e oportunidades para o Open Source na área de Segurança da
+  Informação
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Alberto Azevedo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@1@128@1757
+CREATED:20161011T142516Z
+DESCRIPTION:Na palestra vão ser abordados todos os paradigmas dos malwares 
+ explicando a teoria base para entender o propósito de cada um e depois serã
+ o passadas técnicas para criação de malwares eficientes e para evasão de an
+ ti-vírus.
+LAST-MODIFIED:20160915T121411Z
+LOCATION:Espaço Brasil
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Conceitos e Técnicas para Criação e Análise de Malwares
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Gabriel Antunes Garcia e Garcia
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@1@129@1712
+CREATED:20161011T142516Z
+DESCRIPTION:Nessa palestra apresentarei diferentes estágios de trabalhos de
+ senvolvidos a partir do uso de software livre para produção musical. Partin
+ do de três eixos importantes do uso do áudio digital de maior importância p
+ ara músicos – gravação\, edição de\náudio e partituras] e protocolo MIDI – 
+ discutiremos o processo de criação musical dentro das potencialidades dos p
+ rogramas livres mais tradicionais [Ardour\, Audacity\, Musescore entre outr
+ os]. A ideia é que a palestra não se restrinja ao ensino de comandos ou tut
+ oriais dos programas\, mas\, que ao observar a execução de um projeto em te
+ mpo real\, os participantes possam observar as interações possíveis entre o
+ s programas\, buscando aliar o conhecimento técnico deles ao propósito esté
+ tico final para o qual se utilizam essas ferramentas.
+LAST-MODIFIED:20160911T100136Z
+LOCATION:Espaço Paraguai
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Utilizando software livre para produção musical com fins diversific
+ ados
+TRANSP:TRANSPARENT
+CATEGORIES:Gráficos e Multimídia(#000000/#F4B028)
+CONTACT:Gabriel Ferrão Moreira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@1@130@1822
+CREATED:20161011T142516Z
+DESCRIPTION:Será mostrado o histórico do IBAMA na utilização de software pr
+ oprietário\, onde o IBAMA era um grande consumidor de softwares de geoproce
+ ssamento (+ de 200 licenças)\, e o processo de mudança para software livre 
+ em geoprocessamento\, passando  a utilizar e colaborar em softwares de códi
+ go aberto na área de Geoprocessamento\, principalmente o  QGIS\, um caso de
+  sucesso de programa livre na área de Geoprocessamento\, cujo o IBAMA tem d
+ esenvolvido plugins.
+LAST-MODIFIED:20160927T210924Z
+LOCATION:Espaço Uruguai
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Software Livre de Geoprocessamento no IBAMA\, de consumidor para co
+ laborador.
+TRANSP:TRANSPARENT
+CATEGORIES:LatinoGEO(#000000/#2FBAB9)
+CONTACT:Luiz Motta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@1@131@1729
+CREATED:20161011T142516Z
+DESCRIPTION:Palestra rápida sobre o wp-cli para iniciantes. Será abordado c
+ omo buscar\, instalar\, ativar\, remover plugins e temas\, como instalar o 
+ WordPress core e alguns truques usando bash para automatizar um pouco  a vi
+ da do administrador de sistemas focado em hospedagem WordPress.
+LAST-MODIFIED:20160914T205311Z
+LOCATION:Espaço Bolívia
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:wp-cli (WordPress Command Line Interface) para iniciantes
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)\,Frameworks\, CMS
+  e Linguagens(#ffffff/#F7322D)
+CONTACT:Marcos Antonio Schratzenstaller
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@1@132@1776
+CREATED:20161011T142516Z
+DESCRIPTION:O início dos crimes virtuais - Uma introdução à segurança da in
+ formação\; abordagem a lei 12.737(lei dos crimes virtuais)\, descrição sobr
+ e o que a lei não abordou (Código Penal\, CF-88\,  e Lei de Defesa do Consu
+ midor)\, Crimes contra a honra - bullying e cyber bullying\, pedofilia e es
+ telionato.Mesmo tendo uma lei para \"crimes virtuais\" esses crimes em sua 
+ maioria são equiparados aos crimes do mundo real(código penal e processo pe
+ nal).
+LAST-MODIFIED:20161003T212947Z
+LOCATION:Espaço Chile
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Crimes Virtuais - O que diz a lei?
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Amivaldo B Santos
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@1@133@1741
+CREATED:20161011T142516Z
+DESCRIPTION:Explanação de conteúdos teóricos e exemplos de estudos estudos 
+ empíricos realizados na área.
+LAST-MODIFIED:20161003T212947Z
+LOCATION:Espaço Peru
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Práticas de gestão do conhecimento aplicada na inserção de TICs em 
+ escolas de ensino básico
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)\,Segurança(#000000/#E7618B)
+CONTACT:Rogerio Ciotti
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@1@134@1773
+CREATED:20161011T142516Z
+DESCRIPTION:CTF
+LAST-MODIFIED:20160915T204104Z
+LOCATION:Espaço Colômbia
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:TORNEIO LATINO: CAPTURA DA BANDEIRA (CTF)
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:EQUIPE CTF
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T120000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@1@136@1846
+CREATED:20161011T142516Z
+DESCRIPTION:Mostrar para o público que é possível editar vídeo e gerar vide
+ ografismo utilizando somente software livre em todo processo.\n\nPúblico al
+ vo:\n\nDesigners\, Videomackers e demais interessados no assunto.
+LAST-MODIFIED:20161007T172617Z
+LOCATION:Espaço Equador
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Videografismo com Software livre
+TRANSP:TRANSPARENT
+CATEGORIES:Gráficos e Multimídia(#000000/#F4B028)\,Segurança(#000000/#E7618
+ B)
+CONTACT:Carlos Eduardo Cruz (Cadunico)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@2@128@1701
+CREATED:20161011T142516Z
+DESCRIPTION:openEHR-based Open Source EHR Platforms
+LAST-MODIFIED:20160909T131724Z
+LOCATION:Espaço Brasil
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:openEHR-based Open Source EHR Platforms
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#ffffff/#A51EF2)\,Keynote(#ffffff/#A51EF2)
+CONTACT:Pablo Pazos Gutiérrez
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@2@129@1753
+CREATED:20161011T142516Z
+DESCRIPTION:A palestra irá apresentar métodos e ferramentas open source par
+ a inserir atividades e análises de segurança no ciclo de desenvolvimento de
+  software seguindos as disciplinas do Application Lifecycle Management (ALM
+ ).
+LAST-MODIFIED:20160915T183626Z
+LOCATION:Espaço Paraguai
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Security Application Lifecycle Management (SALM) - De quem é a resp
+ onsabilidade da Segurança das Aplicações?
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Wagner Elias
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@2@130@1827
+CREATED:20161011T142516Z
+DESCRIPTION:Apresentar o DSGTools e apresentar as ferramentas desenvolvidas
+  para produção de geoinformação de acordo com normas e padrões nacionais.
+LAST-MODIFIED:20160927T212053Z
+LOCATION:Espaço Uruguai
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:O uso do DSGTools na produção de geoinformação
+TRANSP:TRANSPARENT
+CATEGORIES:LatinoGEO(#000000/#2FBAB9)
+CONTACT:Luiz Claudio Oliveira de Andrade
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@2@131@1758
+CREATED:20161011T142516Z
+DESCRIPTION:O WordPress é uma plataforma de softwares usado para criação de
+  sites\,\n\nblogs ou lojas virtuais. Esta plataforma de softwares contem al
+ guns elementos para\n\ncompor um site\, que são basicamente três: os temas\
+ , os plugins e o conteúdo\n\n(páginas e posts).
+LAST-MODIFIED:20160915T183610Z
+LOCATION:Espaço Bolívia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:WordPress - Teoria X Prática
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Marília Mees Jacuniak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@2@132@1809
+CREATED:20161011T142516Z
+DESCRIPTION:Os desperdícios no setor tecnológico são gigantescos. Com o mun
+ do cada vez mais conectado\, com novas oportunidades surgindo a todo tempo\
+ , ficar preso nas armadilhas tradicionais da propriedade do software pode i
+ nviabilizar sua vida. Nessa apresentação\, vamos conversar sobre como Softw
+ are Livre é uma grande alavanca para te abrir portas inesperadas e te ajuda
+ r a esculpir a sua carreira para você viver a vida do seu jeito.
+LAST-MODIFIED:20160926T180558Z
+LOCATION:Espaço Chile
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Quanto dinheiro você está perdendo por não fazer Software Livre?
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Henrique Bastos
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@2@133@1830
+CREATED:20161011T142516Z
+DESCRIPTION:Será realizada uma apresentação de como se iniciou se o projeto
+  de robótica educacional para series iniciais no município mostrando quem f
+ oram os parceiros\, os investimentos\, os Hardware Livre (Arduíno) utilizad
+ os em ambientes de ensino-aprendizagem as dificuldades mostrando início e a
+  trajetória e como está o projeto hoje e o que esperamos para o futuro.
+LAST-MODIFIED:20161005T135348Z
+LOCATION:Espaço Peru
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Uso do Hardware Livre Arduíno em Ambientes de Ensino-aprendizagem n
+ os anos Iniciais do Ensino Fundamental
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)\,Segurança(#000000/#E7618B)\,Educação(
+ #ffffff/#251F2F)
+CONTACT:Marcia Regina Kaminski\,Thiago Sodre\,Neonildo Ribeiro Martins
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@2@134@1773
+CREATED:20161011T142516Z
+DESCRIPTION:CTF
+LAST-MODIFIED:20160915T204113Z
+LOCATION:Espaço Colômbia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:TORNEIO LATINO: CAPTURA DA BANDEIRA (CTF)
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:EQUIPE CTF
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T130000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@2@136@1847
+CREATED:20161011T142516Z
+DESCRIPTION:Serão abordadas as principais regras da W3C (World Wide Web Con
+ sortium) concernentes à acessibilidade\, navegabilidade e usabilidade em si
+ tes e aplicativos\, bem como sua importância aos usuários que desfrutam dos
+  recursos de tais sistemas. Em especial\, será tratada\, no campo da acessi
+ bilidade\, a deficiência visual\, já que Davi a possui e\, portanto\, pode 
+ discorrer sobre o tema com autonomia e segurança.
+LAST-MODIFIED:20161007T173145Z
+LOCATION:Espaço Equador
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Padrões de Navegabilidade W3C: Aplicando a Acessibilidade\, a Naveg
+ abilidade e a Usabilidade em Páginas Web
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Davi Sardinha Pacheco
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@3@128@1723
+CREATED:20161011T142516Z
+DESCRIPTION:Esta apresentação tem o objetivo de provar que não é preciso se
+ r um hacker para conseguir realizar trabalhos de espionagem\, e que mesmo e
+ m pequenas empresas\, aquelas com até 20 funcionários\, podem gerar receita
+ s milionárias para esses atacantes.
+LAST-MODIFIED:20161010T205012Z
+LOCATION:Espaço Brasil
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Espionagem Industrial e Comercial usando Hacking
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Alan Sanches
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@3@129@1742
+CREATED:20161011T142516Z
+DESCRIPTION:Nesta palestra veremos como o Blender pode ajudar a reabilitar 
+ pessoas graças aos seus poderosos recursos voltados para a área de impressã
+ o 3d
+LAST-MODIFIED:20160926T175407Z
+LOCATION:Espaço Paraguai
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Modelagem e adaptação de Proteses com Blender
+TRANSP:TRANSPARENT
+CATEGORIES:Gráficos e Multimídia(#000000/#F4B028)
+CONTACT:RazGriz (Guilherme Gonçalves Magalhães)
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@3@130@1825
+CREATED:20161011T142516Z
+DESCRIPTION:Será apresentada o histórico da comunidade QGIS Brasil e discut
+ ido a papel das comunidades na democratização das geotecnologias\;
+LAST-MODIFIED:20160927T211631Z
+LOCATION:Espaço Uruguai
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:QGIS Brasil 6 anos: de onde viemos e para onde vamos
+TRANSP:TRANSPARENT
+CATEGORIES:LatinoGEO(#000000/#2FBAB9)\,LatinoGEO(#000000/#2FBAB9)
+CONTACT:Felipe Sodré Mendes Barros
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@3@131@1748
+CREATED:20161011T142516Z
+DESCRIPTION:Sivent2 é um sistema livre\, em desenvolvimento\, para gerencia
+ r todas as fase de gerenciamento de um evento. Inscrições\, participantes e
+  certificação. Submissões de trabalho\, avaliação e homologação de proposta
+ s\, certificação. Colaborações e colaboradores\; certificados. Caravanas. L
+ ocais\, salas\, datas e horários: A grade do evento. Gerenciamento de pales
+ trantes. Preinscrições e presenças em subeventos.
+LAST-MODIFIED:20160915T183651Z
+LOCATION:Espaço Bolívia
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Sivent2: Um Sistema de Gestão de Eventos Livre
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Ole Peter Smith
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@3@132@1747
+CREATED:20161011T142516Z
+DESCRIPTION:A Crise Econômica\, Apresentação das funcionalidades do LibreOf
+ fice\, as novidades\, versão LibreOffice Online\, oportunidade de adotar um
+ a suite de escritório livre e gratuito\, Benefícios do uso do LibreOffice.
+LAST-MODIFIED:20160926T130433Z
+LOCATION:Espaço Chile
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Superando a Crise Econômica com LibreOffice.
+TRANSP:TRANSPARENT
+CATEGORIES:LibreOffice(#ffffff/#D13350)
+CONTACT:Vitorio Yoshinori Furusho
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@3@133@1788
+CREATED:20161011T142516Z
+DESCRIPTION:ATIVIDADES:\n\n- Explicar a relação do SIGME com o MOODLE\;\n\n
+ - Explicar o funcionamento do código fonte\;\n\n- Extrair uma planilha do M
+ OODLE\;\n\n- Alimentar o SIGME com a planilha extraída\;\n\n- Mostrar como 
+ os dados são exibidos.
+LAST-MODIFIED:20161011T124034Z
+LOCATION:Espaço Peru
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:SIGME – Sistema de Gerenciamento e Monitoramento Educacional
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)\,Educação(#ffffff/#251F2F)
+CONTACT:Nilson dos Santos
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@3@134@1773
+CREATED:20161011T142516Z
+DESCRIPTION:CTF
+LAST-MODIFIED:20160915T204116Z
+LOCATION:Espaço Colômbia
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:TORNEIO LATINO: CAPTURA DA BANDEIRA (CTF)
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:EQUIPE CTF
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@3@135@1849
+CREATED:20161011T142516Z
+DESCRIPTION:Ajude a construir o Firefox! Teste novos recursos e dê a sua op
+ inião sobre o que você acha. O Firefox é desenvolvido para milhões de usuár
+ ios ao redor do mundo com a missão de priorizar você\, sua privacidade e a 
+ web aberta.
+LAST-MODIFIED:20161007T181746Z
+LOCATION:Espaço Venezuela
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Adicione Super Poderes ao seu Firefox
+TRANSP:TRANSPARENT
+CATEGORIES:Trilha Mozilla(#000000/#9397E2)
+CONTACT:João Eriberto Mota Filho\,Samuel Moraes\,Eduardo Barros
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T140000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@3@136@1845
+CREATED:20161011T142516Z
+DESCRIPTION:Como o software livre me proporcionou o trabalho dos sonhos
+LAST-MODIFIED:20161007T181725Z
+LOCATION:Espaço Equador
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Como o software livre me proporcionou o trabalho dos sonhos
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)\,Segurança(#000000/
+ #E7618B)
+CONTACT:Leandro Nunes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@4@128@1769
+CREATED:20161011T142516Z
+DESCRIPTION:inotify: observando seus arquivos e tomando decisões de seguran
+ ça\nem tempo real
+LAST-MODIFIED:20160916T122055Z
+LOCATION:Espaço Brasil
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:inotify: observando seus arquivos e tomando decisões de segurança e
+ m tempo real
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:João Eriberto Mota Filho
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@4@129@1811
+CREATED:20161011T142516Z
+DESCRIPTION:Faça uma automação descomplicada\, descubra as mágicas que ardu
+ ino + raspberry pi + nodejs + socket.io podem fazer por você!
+LAST-MODIFIED:20160926T182919Z
+LOCATION:Espaço Paraguai
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:A casa dos sonhos\, automatização residencial com nodejs
+TRANSP:TRANSPARENT
+CATEGORIES:Hardware e Robótica(#ffffff/#A58400)
+CONTACT:Felipe Olivaes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@4@130@1823
+CREATED:20161011T142516Z
+DESCRIPTION:cadastro realizado em São Paulo envolvendo nove mil polígonos r
+ eferentes a processos de parcelamento do solo diversos.  O mais significati
+ vo do município tendo em vista que as informações dele provenientes  foram 
+ (e são) essenciais para a aprovação de novos projetos. A modernização do ca
+ dastro reflete diretamente na agilização das novas aprovações. Os dados são
+  disponibilizados resumidamente pelo portal GEOSAMPA na internet. O Grupo t
+ écnico de Geoprocessamento e Georreferenciamento (GGEO) faz parte da Coorde
+ nação de Gestão de Licenciamento Eletrônico e Informatização e Geoprocessam
+ ento (CEIGEO) da Secretaria de Licenciamento da Prefeitura Municipal de São
+  Paulo. Foi um trabalho realizado conjuntamente com a Prodam\, empresa resp
+ onsável pelo suporte de TI da Prefeitura de São Paulo.
+LAST-MODIFIED:20160927T212047Z
+LOCATION:Espaço Uruguai
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Implementação de Cadastro de Parcelamento do Solo Utilizando Softwa
+ res Livres
+TRANSP:TRANSPARENT
+CATEGORIES:LatinoGEO(#000000/#2FBAB9)
+CONTACT:Sylvia Regina
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@4@131@1759
+CREATED:20161011T142516Z
+DESCRIPTION:O Magento\, plataforma de e-commerce open-source mais utilizada
+  no mundo\, atualmente na sua versão 2.1\, está presente no mercado como um
+ a ferramenta robusta\, segura e flexível para atender diversos tipos de neg
+ ócios virtuais. Desde pequenas empresas até as grandes.\n\nNesta palestra s
+ erão abordados os principais tópicos relacionados ao desenvolvimento e ao p
+ lanejamento de uma loja virtual utilizando a plataforma Magento e as tecnol
+ ogias que estão envolvidas no funcionamento básico para efetuar vendas onli
+ ne.\n\nTodo o conteúdo será voltado para o estudantes\, desenvolvedores e e
+ mpreendedores que estão interessados em iniciar seus trabalhos no mercado v
+ irtual\, de forma eficiente utilizando tecnologias open source.
+LAST-MODIFIED:20160915T184751Z
+LOCATION:Espaço Bolívia
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Desenvolvimento de lojas virtuais com Magento
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)\,Frameworks\, CMS
+  e Linguagens(#ffffff/#F7322D)
+CONTACT:Luiz Venturote
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@4@132@1754
+CREATED:20161011T142516Z
+DESCRIPTION:A criação da Secretaria Municipal de Ciência\, Tecnologia\, Ino
+ vação\, Educação\n\nProfissional e Trabalho como políticas públicas para a 
+ integração de empresas\, escolas e\n\no desenvolvimento científico do munic
+ ípio de São Mateus-ES.
+LAST-MODIFIED:20160927T211622Z
+LOCATION:Espaço Chile
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Software Livre como Política Pública
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Temístocles Alves Rocha
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@4@133@1795
+CREATED:20161011T142516Z
+DESCRIPTION:Resumo:\nEducação Básica\; Definição de Algoritmo e Pensamento 
+ Computacional\; Linguagem Logo\; Ensino de Computação na Educação Básica\; 
+ Intervenção pedagógica: A construção de um algoritmo para uma figura geomét
+ rica\; O ambiente KLogo-Turtle – Desenho de figuras geométricas com a Lingu
+ agem de Programação Logo (ambiente de programação – software KLogo)\, como\
+ , por exemplo\, o quadrado\; Aula prática com o robô jabutiedu.\n\nObjetivo
+  Geral:\n\nDiscutir a prática pedagógica sobre a produção do conhecimento –
+  a partir do desenvolvimento de\n\nAlgoritmos\, do Pensamento Computacional
+  e da Robótica Pedagógica Livre – com a utilização da\n\nLinguagem de Progr
+ amação LOGO  e a relação de importância do Ensino de Computação na Educação
+ \n\nBásica.\n\nObjetivos Específicos:\n\nDesenvolver uma metodologia de tra
+ balho colaborativa que possibilite aos educandos:\n\n    Aprender de forma 
+ autônoma\, ainda que orientada\, os rudimentos de programação\;\n\n    A ap
+ rendizagem baseada na Resolução de Problemas\;\n\n    Desenvolver os projet
+ os de trabalho com o registro de etapas e divulgação das experiências viven
+ ciadas\;\n\n    Identificar figuras geométricas no cotidiano\, a partir da 
+ criação de figuras\, como\, por exemplo o quadrado\;\n    Desenvolver a cri
+ atividade explorando as suas experiências de aprendizagem (liberdade de cri
+ ar com autonomia)\;
+LAST-MODIFIED:20161011T124039Z
+LOCATION:Espaço Peru
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Ensino de Computação: Algoritmo\, Pensamento Computacional e Robóti
+ ca Pedagógica Livre para/na Educação Básica
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Danilo Rodrigues César
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@4@134@1773
+CREATED:20161011T142516Z
+DESCRIPTION:CTF
+LAST-MODIFIED:20160915T204118Z
+LOCATION:Espaço Colômbia
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:TORNEIO LATINO: CAPTURA DA BANDEIRA (CTF)
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:EQUIPE CTF
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@4@135@1850
+CREATED:20161011T142516Z
+DESCRIPTION:Aprenda a linguagem de programação do futuro! Rust é seguro e s
+ erá amplamente utilizado nos projetos da Mozilla\, como no Servo\, incrível
+  novo motor do Firefox.
+LAST-MODIFIED:20161007T182310Z
+LOCATION:Espaço Venezuela
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Mergulhando em Rust
+TRANSP:TRANSPARENT
+CATEGORIES:Trilha Mozilla(#000000/#9397E2)
+CONTACT:Samuel Moraes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T150000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@4@136@1855
+CREATED:20161011T142516Z
+DESCRIPTION:Esta palestra tem como objetivo mostrar um case de infraestrutu
+ ra escalável de CFTV com o software Zoneminder\, utilizando sua nova funcio
+ nalidade de multi servidores e com um sistema de arquivo compartilhado. Tam
+ bém será apresentado as dificuldades enfrentadas e os \"ajustes técnicos\" 
+ aplicados.
+LAST-MODIFIED:20161010T120720Z
+LOCATION:Espaço Equador
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Montando uma estrutura escalável de CFTV com software livre
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Lucas Maiksuell Peruchi\,Laercio da Silva Motta
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@5@128@1775
+CREATED:20161011T142516Z
+DESCRIPTION:Foto Oficial
+LAST-MODIFIED:20160915T204349Z
+LOCATION:Espaço Brasil
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Foto Oficial
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@5@129@1775
+CREATED:20161011T142516Z
+DESCRIPTION:Foto Oficial
+LAST-MODIFIED:20160915T204354Z
+LOCATION:Espaço Paraguai
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Foto Oficial
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@5@130@1775
+CREATED:20161011T142516Z
+DESCRIPTION:Foto Oficial
+LAST-MODIFIED:20160915T204356Z
+LOCATION:Espaço Uruguai
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Foto Oficial
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@5@131@1775
+CREATED:20161011T142516Z
+DESCRIPTION:Foto Oficial
+LAST-MODIFIED:20160915T204358Z
+LOCATION:Espaço Bolívia
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Foto Oficial
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@5@132@1775
+CREATED:20161011T142516Z
+DESCRIPTION:Foto Oficial
+LAST-MODIFIED:20160915T204401Z
+LOCATION:Espaço Chile
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Foto Oficial
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@5@133@1775
+CREATED:20161011T142516Z
+DESCRIPTION:Foto Oficial
+LAST-MODIFIED:20160915T204404Z
+LOCATION:Espaço Peru
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Foto Oficial
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@5@134@1775
+CREATED:20161011T142516Z
+DESCRIPTION:Foto Oficial
+LAST-MODIFIED:20160915T204406Z
+LOCATION:Espaço Colômbia
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Foto Oficial
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@5@135@1775
+CREATED:20161011T142516Z
+DESCRIPTION:Foto Oficial
+LAST-MODIFIED:20160915T204408Z
+LOCATION:Espaço Venezuela
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Foto Oficial
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T160000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@5@136@1775
+CREATED:20161011T142516Z
+DESCRIPTION:Foto Oficial
+LAST-MODIFIED:20160915T204410Z
+LOCATION:Espaço Equador
+SEQUENCE:5
+STATUS:CONFIRMED
+SUMMARY:Foto Oficial
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote(#000000/#B4B7DB)
+CONTACT:Cerimonial
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T163000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@6@128@1807
+CREATED:20161011T142516Z
+DESCRIPTION:A palestra pretende passar aos ouvintes como ocorre o levantame
+ nto de informações\, ou como é o processo de levantamento de informações. O
+  processo de levantamento de informações.  o Termo OSINT (sigla para Open s
+ ource intelligence ou Inteligência de Fontes Abertas) é o termo usado\, pri
+ ncipalmente em inglês\, para descrever a inteligência\, no sentido de infor
+ mações\, como em serviço de inteligência\, obtida através dados disponíveis
+  para o público em geral\, como internet e rede sociais. OSINT é uma das fo
+ ntes de inteligência. É conhecimento produzido através de dados e informaçõ
+ es disponíveis e acessíveis a qualquer pessoa.\n\nAtividade: Introdução ao 
+ FrameWork Metasploit (4h)\nObjetivo: O minicurso mostrará de forma de resum
+ ida os passos para um acesso não autorizado à um computador\, focando na ut
+ ilização da ferramenta Metasploit.\nEmenta:\n1 - Arquitetura do Metasploit\
+ n2 - Interfaces\n3 - MsfConsole\n4 - Reconhecimento\n5 - Criação de exploit
+ s e payloads\n6 - Conclusão
+LAST-MODIFIED:20160926T175415Z
+LOCATION:Espaço Brasil
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:OSINT -  Open Source Intelligence ou Inteligência de Fontes Abertas
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Paulo Fernando Lamellas
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T163000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@6@129@1793
+CREATED:20161011T142516Z
+DESCRIPTION:A Palestra fala sobre ser profissional ou o famoso especialista
+  em\ntudo. Os sobrinhos são \"profissionais\" de internet que\, muitas veze
+ s\npor terem parentesco com algum cliente ou empresário\, são contratados\n
+ com salários \"exuberantes\". São usados com alternativas aparentemente\nvi
+ áveis para fazer aquele seu projeto chulé de site ou sistema ao qual\nvocê 
+ não está muito afim de desembolsar uma boa grana por um\nprofissional quali
+ ficado e experiente.
+LAST-MODIFIED:20160926T130418Z
+LOCATION:Espaço Paraguai
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:A arte da guerra II - “eu tenho um sobrinho que faz de graça”.
+TRANSP:TRANSPARENT
+CATEGORIES:Filosofia e Comunidade(#000000/#3FF921)
+CONTACT:Silvio Palmieri
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T163000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@6@130@1749
+CREATED:20161011T142516Z
+DESCRIPTION:Criação de imagens e animações simples com ferramentas livres: 
+ PHP e GD. Escalonamento da área de desenho à uma determinada resolução. Des
+ enho e animação de curvas. Rolando um círculo em uma reta: A curva de bosta
+ : Cicloids e trochoids. Rolando um círculo dentro ou fora de outro círculo:
+  Epi e Hipocicloids\, Epi e Hipotrochoids. Velocidade\, aceleração e curvat
+ ura. Rolando um círculo em qualquer curva parametrizada.
+LAST-MODIFIED:20160915T183725Z
+LOCATION:Espaço Uruguai
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Geometria Computacional com Ferramentas Livres: As Curvas da Bosta
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Ole Peter Smith
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T163000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@6@131@1743
+CREATED:20161011T142516Z
+DESCRIPTION:A ideia é mostrar como é possível criar negócios rentáveis e\n\
+ nautossustentáveis utilizando Linux e ferramentas abertas abordando uma nov
+ a forma de divulgação\n\nde conteúdo na internet através de marketing de co
+ nteúdo e marketing digital.
+LAST-MODIFIED:20160927T212019Z
+LOCATION:Espaço Bolívia
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Empreendedorismo com Linux
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Dionatan Simioni
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T163000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@6@132@1844
+CREATED:20161011T142516Z
+DESCRIPTION:Palestra sobre os quatro pilares fundamentais que uma ferrament
+ a de monitoração deve cumprir.
+LAST-MODIFIED:20161007T133129Z
+LOCATION:Espaço Chile
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:4 pilares do monitoramento de redes com Zabbix
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)\,Administração d
+ e Redes e Infra(#ffffff/#3080F5)
+CONTACT:Hernandes Martins
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T163000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@6@133@1777
+CREATED:20161011T142516Z
+DESCRIPTION:A palestra visa demonstrar as possibilidades\, os desafios e as
+  contribuições do Ensino de Lógica de Programação desde a Educação Infantil
+  a partir da utilização de computação desplugada com o auxílio do projeto J
+ abutiEdu\, softwares e hardwares livres e aplicativos gratuitos.
+LAST-MODIFIED:20161011T124044Z
+LOCATION:Espaço Peru
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Lógica de Programação desde a Educação Infantil: Possibilidades e d
+ esafios!
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Adeilsa Ferreira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T163000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@6@134@1773
+CREATED:20161011T142516Z
+DESCRIPTION:CTF
+LAST-MODIFIED:20160915T204121Z
+LOCATION:Espaço Colômbia
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:TORNEIO LATINO: CAPTURA DA BANDEIRA (CTF)
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:EQUIPE CTF
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T163000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@6@135@1851
+CREATED:20161011T142516Z
+DESCRIPTION:À medida que a Internet vai se tornando cada vez mais parte int
+ egrante da vida cotidiana\, aumentam as dúvidas sobre privacidade e seguran
+ ça na Web. Manter suas informações\npessoais\, protegidas pode ser difícil\
+ , mas seguindo algumas dicas\, você pode evitar a grande maioria dos golpes
+ \, spyware e violações de privacidade.
+LAST-MODIFIED:20161007T182519Z
+LOCATION:Espaço Venezuela
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:Privacidade e Segurança na Web
+TRANSP:TRANSPARENT
+CATEGORIES:Trilha Mozilla(#000000/#9397E2)
+CONTACT:Rocio Soledad Meza Arce\,Alcides Javier Torres Gutt\,Samuel Moraes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T163000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@6@136@1856
+CREATED:20161011T142516Z
+DESCRIPTION:Apresentação dos passos inicias para a ativação de IPv6 (com du
+ al-stack) em redes corporativas\, serão mostrados os pré-requisitos para a 
+ ativação de IPv6\, exemplos de configurações de roteadores\, firewalls\, se
+ rvidores e serviços básicos de tais como: DNS\, DHCP\, NTP\, Apache\, postf
+ ix\, etc. Ao logo da apresentação também iremos desmistificar algumas dúvid
+ as que assombram os iniciantes em IPv6.
+LAST-MODIFIED:20161010T120856Z
+LOCATION:Espaço Equador
+SEQUENCE:6
+STATUS:CONFIRMED
+SUMMARY:IPv6 na rede corporativa\, por onde começar?
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:João Paulo de Lima Barbosa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T173000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@7@128@1746
+CREATED:20161011T142516Z
+DESCRIPTION:Deveríamos unir esforços por um sistema operacional livre proje
+ tado por uma comunidade com interesses diferentes dos interesses comerciais
+  de grandes corporações motivadas apenas pelo lucro. Além do mais\, uma mai
+ or diversidade de sistemas operacionais permitiria atender melhor às necess
+ idades de diferentes grupos\, bem como incentivar provedores de serviços a 
+ oferecê-los de forma interoperável e sem exigir utilização de software prop
+ rietário.\n\nVou mostrar algumas estratégias e seus desafios para suportar 
+ GNU e outros sistema operacionais em diferentes tipos de aparelhos\, entre 
+ os mais populares\, os smartphones.
+LAST-MODIFIED:20160915T183736Z
+LOCATION:Espaço Brasil
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:GNU para Smartphones
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Thadeu Cascardo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T173000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@7@129@1770
+CREATED:20161011T142516Z
+DESCRIPTION:Controle de anomalias e bloqueio de ataques de rede em tempo re
+ al\ncom ferramentas livres (nova\, inédita)
+LAST-MODIFIED:20160916T122055Z
+LOCATION:Espaço Paraguai
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Controle de anomalias e bloqueio de ataques de rede em tempo real c
+ om ferramentas livres
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)\,Segurança(#000000/#E7618B)
+CONTACT:João Eriberto Mota Filho
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T173000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@7@130@1785
+CREATED:20161011T142516Z
+DESCRIPTION:Imagine escrever JavaScript aplicando todo seu conhecimento em 
+ OO. É exatamente isso que o TypeScript possibilita para nós\, uma experiênc
+ ia altamente produtiva para desenvolvedores JS. Nesta palestra iremos conhe
+ cer o poder e os benefícios desta tecnologia\, explorando funcionamento\, e
+ xemplos\, práticas\, compilador e comparativos que nos levarão a expandir n
+ ossa maneira de desenvolver JS.
+LAST-MODIFIED:20160921T212100Z
+LOCATION:Espaço Uruguai
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Conheça TypeScript!
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Erik Guimarães
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T173000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@7@131@1842
+CREATED:20161011T142516Z
+DESCRIPTION:A Wikipédia é hoje um dos sites mais acessados do mundo mas mui
+ to ainda desconhecem os bastidores desse projeto e o seu funcionamento. Nes
+ ta palestra serão apresentados todos os aspectos\, projetos e iniciativas p
+ or trás da Wikipédia bem como os demais projetos irmãos mantidos pela Wikim
+ edia Foundation e uma gigantesca comunidade de colaboradores voluntários\, 
+ professores e pesquisadores. Apresentaremos números\, curiosidades e fatos 
+ relevantes que fizeram do movimento Wikimedia um dos maiores projetos colab
+ orativos já criados pela humanidade\, apresentando o lado pratico e também 
+ questões acadêmicas sobre o tema.
+LAST-MODIFIED:20161007T182125Z
+LOCATION:Espaço Bolívia
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Wikipédia: Muito além de uma enciclopédia online
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)\,Segurança(#000000/#E7618B)
+CONTACT:Rodrigo Padula de Oliveira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T173000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@7@132@1839
+CREATED:20161011T142516Z
+DESCRIPTION:Utilizar a tecnologia como recurso pedagógico é fundamental na 
+ educação atual. Além disso\, cabe à escola\, especialmente a pública\, divu
+ lgar e dar o exemplo no uso de softare livre fomentando a sua utilização.  
+ Para isso é preciso preparar professores e alunos. Como em qualquer outra p
+ rofissão\, ser professor exige formação constante\, até porque o mundo evol
+ ui continuamente. Eles também precisam ser formados em tecnologia e com tec
+ nologias\, utilizando recursos e ferramentas que apontem vantagens e oportu
+ nidades para sua formação e desenvolvimento profissional.  Alunos precisam 
+ conhecer e utilizar adequadamente os recursos tecnológicos de modo a favore
+ cer seus estudos. Dessa forma\, conhecer as possibilidades de utilização de
+  programas como os do pacote LibreOffice\, pode contribuir com a qualidade 
+ da educação desde os anos iniciais até a formação de professores.
+LAST-MODIFIED:20161005T133633Z
+LOCATION:Espaço Chile
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:LIBREOFFICE – POSSIBILIDADES DE USO DOS ANOS INICIAIS ATÉ A FORMAÇÃ
+ O DE PROFESSORES: UMA PARCERIA QUE DÁ CERTO!
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Rosemara da Silva\,Marcia Regina Kaminski
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T173000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@7@133@1831
+CREATED:20161011T142516Z
+DESCRIPTION:É comum em nosso meio profissional ou acadêmico ouvirmos afirma
+ ções do tipo: “estamos todos conectados\, vivemos em uma sociedade em rede 
+ ou ainda\, essa é a sociedade do conhecimento”. Contudo\, essas afirmações 
+ escamoteiam aspectos que compõe as contradições da sociedade contemporânea\
+ , como por exemplo 1) o fato de que as tecnologias em rede se disseminam ao
+  mesmo tempo em que problemas advindos das desigualdades sociais aumentam\,
+  2) a comunicação deveria ser um direito porém\, o acesso à infraestrutura 
+ de comunicação é limitado e\, portanto\, é limitante e 3) apesar de haver u
+ m reconhecimento da importância da educação na formação humana\, a educação
+  (especialmente a escolar) tem enfrentados problemas angustiantes que rever
+ beram na sociedade.\nAo abordar esses três aspectos\, busca-se refletir sob
+ re os papéis dos especialistas\, experts\, desenvolvedores e produtores de 
+ tecnologias diante das desigualdades sociais\, sinalizando algumas alternat
+ ivas que buscam aumentar as oportunidades de acesso e de apropriação de con
+ hecimentos para uma significativa parte da população\, como forma de contri
+ buir para a conquista de direitos que lhes vem sendo negados.
+LAST-MODIFIED:20161011T124047Z
+LOCATION:Espaço Peru
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Conectados #sqn: desigualdades sociais e alternativas tecnológicas
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Karina Menezes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T173000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@7@134@1773
+CREATED:20161011T142516Z
+DESCRIPTION:CTF
+LAST-MODIFIED:20160915T204124Z
+LOCATION:Espaço Colômbia
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:TORNEIO LATINO: CAPTURA DA BANDEIRA (CTF)
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:EQUIPE CTF
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T173000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@7@135@1852
+CREATED:20161011T142516Z
+DESCRIPTION:Presentación oficial de los dos productos traducido al idioma G
+ uaraní
+LAST-MODIFIED:20161007T182951Z
+LOCATION:Espaço Venezuela
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Traducción del Navegador Mozilla Firefox al Guaraní para escritorio
+  y para Android
+TRANSP:TRANSPARENT
+CATEGORIES:Trilha Mozilla(#000000/#9397E2)\,Trilha Mozilla(#000000/#9397E2)
+CONTACT:Rocio Soledad Meza Arce\,Alcides Javier Torres Gutt\,Susan Areco
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T173000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@7@136@1857
+CREATED:20161011T142516Z
+DESCRIPTION:Procurando uma aplicação para realizar clonagens de maquinas pa
+ ra usuários finais? Talvez o FOG seja a solução!
+LAST-MODIFIED:20161010T121134Z
+LOCATION:Espaço Equador
+SEQUENCE:7
+STATUS:CONFIRMED
+SUMMARY:Utilizando o software FOG para clonar maquinas finais.
+TRANSP:TRANSPARENT
+CATEGORIES:Administração de Redes e Infra(#ffffff/#3080F5)
+CONTACT:Marcos Roberto Shpak
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T183000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@8@128@1838
+CREATED:20161011T142516Z
+DESCRIPTION:Recentes investigações criminais no Brasil deixaram claro que a
+  Justiça não tem conseguido agir com sua estrutura atual. Os casos envolven
+ do o Whatsapp ganharam destaque\, pois a Justiça Brasileira chegou a ordena
+ r a suspensão de seus serviços. No entanto\, quais são os limites para isso
+ ? Num mundo cada vez mais sem privacidade\, pode ela estar acima da Lei? Ne
+ ssa apresentação\, analisaremos quais os limites e as ações que o Poder Púb
+ lico pode tomar nessas situações.
+LAST-MODIFIED:20161005T131913Z
+LOCATION:Espaço Brasil
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Whatsapp e Criptografia: qual o limite para a Justiça?
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:Gustavo Gobi Martilelli
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T183000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@8@129@1862
+CREATED:20161011T142516Z
+DESCRIPTION:LPI ( Linux Professional Institut) es actualmente la certificac
+ ión más importante en el mundo Open Source\,con más de 500.000 profesionale
+ s certificados desde su fundación en 1999. Cuenta con una amplia red de cen
+ tros de formación asociados\, gubernamentales y privados\, en más de 100 pa
+ íses. Los exámenes LPI se actualizan cada 2 años siguiendo la rápida evoluc
+ ión de las TI y con ello permite una rápida adaptación e inserción de los p
+ rofesionales del Linux en el mundo laboral. Actualmente LPI enfoca su atenc
+ ión en América Latina por ser ésta una región de gran potencial para las Te
+ cnologías de la Información. Como no podía ser de otra manera\, LPI quiere 
+ ser partícipe en este gran esfuerzo\, por potenciar las TI en la región\, q
+ ue llevan adelante instituciones gubernamentales\, privadas y la comunidad 
+ Open Source
+LAST-MODIFIED:20161010T124248Z
+LOCATION:Espaço Paraguai
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:LPI: Un camino hacia el éxito del profesional  OSS
+TRANSP:TRANSPARENT
+CATEGORIES:Empreendedorismo e Negócios(#ffffff/#8E0CBC)
+CONTACT:Henry Chalup
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T183000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@8@130@1819
+CREATED:20161011T142516Z
+DESCRIPTION:Trocar o sistema do seu roteador wifi por um sistema Linux base
+ d de alta customização e performance\, ok... \nInstalar um monte de pacotes
+  no seu novo sistema para ele agir como uma ferramenta de analise e intrusã
+ o de rede\, humm...\nTer tudo isso já pronto e pensado para rodar em um rot
+ eador de bolso com bateria\, e ainda poder usar os botoes externos para set
+ ar modos\, wow!!!! \nEnfim\, o objetivo dessa palestra é apresentar o siste
+ ma operacional para roteadores sem fio OpenWRT\, mostrar alguns de seus pac
+ otes para segurança de redes e apresentar a distro MiniPwner que já vem com
+  tudo isso pronto e ainda algumas de suas especificidades e usos!
+LAST-MODIFIED:20160927T204006Z
+LOCATION:Espaço Uruguai
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:MiniPwner - Uma distro OpenWRT para pentest!!!
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)\,Segurança(#000000/#E7618B)
+CONTACT:Rodrigo Troian
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T183000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@8@131@1859
+CREATED:20161011T142516Z
+DESCRIPTION:Jenkins é uma ferramenta aberta de integração contínua e entreg
+ a contínua. Nesta palestras iremos apresentar a ferramenta e suas utilizaçõ
+ es.BIO Lucas Nathan Barbosa: Nasci na cidade de Foz do Iguaçu. Minha paixão
+  com tecnologia começou cedo\, com a necessidade de consertar controles de 
+ Super Nintendo para poder jogar donkey kong e final fighter. Alguns anos ma
+ is tarde\, descobri minha paixão por programação\, o que me incentivou a en
+ trar no curso de Ciência da Computação na UNIOESTE no ano de 2010. Em 2014 
+ surgiu a oportunidade de fazer um ano de estudo na Universidade de Waikato 
+ na Nova Zelândia e me formei em 2015. Desde então me envolvi em projetos de
+  pesquisa na FPTI e sou freelance nos tempos livres.
+LAST-MODIFIED:20161010T123521Z
+LOCATION:Espaço Bolívia
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Jenkins separando os meninos dos homens.
+TRANSP:TRANSPARENT
+CATEGORIES:DEVOPS(#000000/#85f899)
+CONTACT:Lucas Nathan Barbosa de Oliveira\,Lucas Castro de Oliveira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T183000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@8@133@1858
+CREATED:20161011T142516Z
+DESCRIPTION:O projeto Uso de Novas Tecnologias para Ensino de Ciências\, es
+ tá implementando uma “Caixa de Areia Interativa para Ensino de Ciências”. U
+ m dispositivo desenvolvido em SL\, interativo e capaz de apresentar aos jov
+ ens conhecimento sobre bacias hidrográficas\, e entender o funcionamento do
+ s mapas topográficos. O equipamento faz uso de realidade aumentada utilizan
+ do um sensor Kinect\, um projetor e um computador\, permitindo a interação 
+ em tempo-real entre Tecnologia e Educação.
+LAST-MODIFIED:20161011T124056Z
+LOCATION:Espaço Peru
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Caixa de Areia Interativa para Ensino de Ciências
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#251F2F)
+CONTACT:Marcos Antonio Teixeira\,Francisco Neto
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T183000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@8@134@1773
+CREATED:20161011T142516Z
+DESCRIPTION:CTF
+LAST-MODIFIED:20160915T204126Z
+LOCATION:Espaço Colômbia
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:TORNEIO LATINO: CAPTURA DA BANDEIRA (CTF)
+TRANSP:TRANSPARENT
+CATEGORIES:Segurança(#000000/#E7618B)
+CONTACT:EQUIPE CTF
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T183000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@8@135@1860
+CREATED:20161011T142516Z
+DESCRIPTION:Apresentar o conceito de Inteligência Coletiva\, como sistemas 
+ e pessoas podem atuar mais inteligentemente na resolução de problemas e com
+ o avaliar a inteligência de uma equipe.
+LAST-MODIFIED:20161010T123803Z
+LOCATION:Espaço Venezuela
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Inteligência Coletiva: organizações e sistemas mais inteligentes
+TRANSP:TRANSPARENT
+CATEGORIES:Filosofia e Comunidade(#000000/#3FF921)
+CONTACT:Marcos Daniel de Moraes Insfram
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161021T183000Z
+DURATION:PT60M
+DTSTAMP:20161011T142516Z
+UID:112@8@136@1861
+CREATED:20161011T142516Z
+DESCRIPTION:A palestra deve apresentar ferramentas que exploram vulnerabili
+ dades em sistemas WEB. E a o que deve ser feito para remediar/mitigar a sit
+ uação.
+LAST-MODIFIED:20161010T123946Z
+LOCATION:Espaço Equador
+SEQUENCE:8
+STATUS:CONFIRMED
+SUMMARY:Segurança na WEB. Preocupações do #DEV?
+TRANSP:TRANSPARENT
+CATEGORIES:Frameworks\, CMS e Linguagens(#ffffff/#F7322D)
+CONTACT:Fabio Noth
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,37 @@
+/*
+@import url("http://fonts.googleapis.com/css?family=Varela");
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Great+Vibes);
+html, body { margin:0; padding:0; overflow:hidden } 
+
+* { 
+  font-family: 'Varela', sans-serif;
+} 
+
+body { color:white } 
+
+h2 { color:rgba(0,0,0,.3); font-family: Great Vibes; margin:.1em ; font-size:45px} 
+
+.leg {
+    border-radius:10px;background-color:rgb(90,50,0);float:left;
+    font-size:14px; 
+    margin:.5em;
+    padding:7px;
+    font-weight:bold;
+
+}
+
+.old { 
+    background-color:rgb(0,80,0);
+} 
+
+.going { 
+    background-color:rgb(0,0,100);
+} 
+.cancel { 
+    background-color:rgb(255,0,0);
+} 
+.prox { 
+    background-color:rgb(85,80,80);
+}

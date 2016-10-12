@@ -1,0 +1,105 @@
+<html  xmlns:svg="http://www.w3.org/2000/svg">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link media="screen, projection" type="text/css" href="t8l/base.css" rel="stylesheet">
+<link media="screen, projection" type="text/css" href="t8l/hdgrid.css" rel="stylesheet">
+<link media="screen, projection" type="text/css" href="t8l/tagvisor.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="index-vertical.css">
+<script src="t8l/jquery-min.js"></script>
+<script src="const.js"></script>
+<script src="index-vertical-grade.js"></script>
+<script src="t8l/tagvisor.js"></script>
+<script src="t8l/choreographer.js"></script>
+</head>
+
+<body id="main">
+
+<div id="debug" >
+</div>
+
+<ul id='animation'>
+ <li data-scope='meio' data-target='panel_1' data-time="2s" data-effect="scalefit" data-duration="4s" />
+</ul>
+
+<div id='screen1' >
+<div id='viewport' >
+<div id='viewport2' >
+
+<div class='grid gh1080'>
+
+<div class='gv1' style='height:90px;border:0px solid red;background:'>
+    <div class="" style='background:none' id="topheader">topheader
+        <!--
+               <div class='gh' id='hora' style='width:530px' ></div>
+               <div class='gh' id='data' style='width:530px;'></div>
+               -->
+    </div>
+</div>
+
+<!-- border-radius:0 0 50px 180px; --> 
+
+<div class='gv flex' data-flex='middle' style='height:960px;overflow:hidden;mask:url(#masking)'>
+	<div class='gh gh1080' >
+      <div id="middle" style='width:1090px'> </div> 
+    </div>
+</div>
+
+
+<div class="gv1" style="height:20px;background-color:">
+</div>
+
+<h2 style='font-size:40px' >Minicursos</h2>
+<div class='gv flex' data-flex='middle' style='height:360px;mask:url(#masking2)'>
+	<div class='gh gh1080' >
+      <div id="middle2"> </div> 
+    </div>
+</div>
+
+
+<div class="gv3" >
+	<div class='gh' style='width:1080px' id='topmiddle'>
+<center>
+    <img src='vendor/mapa.png' width='1080' style='margin:15px 0 0 25px' />
+</center>
+	</div>
+</div>
+
+
+
+</div>
+</div> <!-- end of viewport --> 
+</div> <!-- end of viewport2 -->
+</div> <!-- end of viewport2 -->
+
+
+
+<svg>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0%" x2 ="0" y2="100%">
+      <stop stop-color="white" offset="0"/>
+      <stop stop-color="white" offset=".9"/>
+      <stop stop-color="black" offset=".95"/>
+      <stop stop-color="black" offset="1"/>
+    </linearGradient>
+    <linearGradient id="gradient2" x1="0" y1="0%" x2 ="0" y2="100%">
+      <stop stop-color="white" offset="0"/>
+      <stop stop-color="white" offset=".9"/>
+      <stop stop-color="black" offset="1"/>
+    </linearGradient>
+
+    <mask id="masking" maskUnits="objectBoundingBox" maskContentUnits="objectBoundingBox">
+      <rect y="0" width="1" height="1" fill="url(#gradient)" />
+    </mask>
+    <mask id="masking2" maskUnits="objectBoundingBox" maskContentUnits="objectBoundingBox">
+      <rect y="0" width="1" height="1" fill="url(#gradient2)" />
+    </mask>
+
+  </defs>
+</svg>
+
+
+
+
+</body>
+</html>

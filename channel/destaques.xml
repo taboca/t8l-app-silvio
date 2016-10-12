@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://sd-latinoware.pti.org.br"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>sd-latinoware.pti.org.br</title>
+ <link>http://sd-latinoware.pti.org.br</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Pressão Seletiva</title>
+ <link>http://sd-latinoware.pti.org.br/node/3</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Body:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Antes da fermentação, do conhecimento sobre a fermentação, cervejeiros faziam pressão seletiva.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slides field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;http://sd-latinoware.pti.org.br/sites/default/files/canvas-black-baldes_0.jpg&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 11 Oct 2016 16:10:17 +0000</pubDate>
+ <dc:creator>mgalli</dc:creator>
+ <guid isPermaLink="false">3 at http://sd-latinoware.pti.org.br</guid>
+ <comments>http://sd-latinoware.pti.org.br/node/3#comments</comments>
+</item>
+<item>
+ <title>Notícia que está saindo na Tela Cast Latinoware</title>
+ <link>http://sd-latinoware.pti.org.br/node/2</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Body:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Olá amigos da Latinoware, agora a infraestrutura das Telas está atualizada. Na plataforma, contamos com Electron; para o conteúdo contamos com Slides, Transições e novas oportunidades para interação de usuários.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slides field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;slides:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;http://sd-latinoware.pti.org.br/sites/default/files/canvas-black-baldes.jpg&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 11 Oct 2016 15:56:49 +0000</pubDate>
+ <dc:creator>mgalli</dc:creator>
+ <guid isPermaLink="false">2 at http://sd-latinoware.pti.org.br</guid>
+ <comments>http://sd-latinoware.pti.org.br/node/2#comments</comments>
+</item>
+</channel>
+</rss>

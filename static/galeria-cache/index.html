@@ -1,0 +1,120 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="refresh" content="1640">
+    <link media="screen, projection" type="text/css" href="../base.css" rel="stylesheet">
+    <script src="../t8l/jquery-min.js" type="text/javascript"></script>
+    <script src="../t8l/proxy.js" type="text/javascript"></script>
+    <script src="../t8l/config.js" type="text/javascript"></script>
+
+    <script src="../const.js" type="text/javascript"></script>
+    <script src="app.js" type="text/javascript"></script>
+ 
+    
+    <!-- maybe this can be moved to afterProxyRun... --> 
+    <script type="text/javascript">
+     t8l.loaded(function () { 
+        app.init();
+        app.start();
+     }); 
+   
+    </script>
+
+    <style>
+    span { 
+		padding:12px;
+   	} 
+    /* 
+	img { box-shadow: 3px 3px 5px black; } 
+    */
+
+div.base { 
+  position:relative;
+  width:230px;
+  height:230px;
+
+}
+
+div.innerBase { 
+    position:absolute;
+  width:230px;
+  height:230px;
+
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+
+    -webkit-flex-flow: column;
+    -moz-flex-flow: column;
+    -ms-flex-flow: column;
+    -o-flex-flow: column; 
+    flex-flow: column;
+
+}
+div.innerSpace { 
+    -webkit-flex:3 1 auto;
+    -moz-flex:3 1 auto;
+    width:100%  ;
+    -ms-flex:3 1 auto;
+    -o-flex:3 1 auto;
+    flex:3 1 auto;
+
+} 
+div.innerCaption { 
+  background: -moz-linear-gradient( top,rgba(0,0,0,.4) ,  rgba(0,0,0,1));
+  color:white;
+  padding:5px;
+  height:0px;
+    -webkit-flex:1 1 auto;
+    -moz-flex:1 1 auto;
+    -ms-flex:1 1 auto;
+    -o-flex:1 1 auto;
+    flex:1 1 auto;
+
+}
+div.innerImage { 
+  position:absolute;
+}
+
+	img.loading { 
+    -moz-transition-property:-moz-transform; 
+    -moz-transform: rotateY(0deg) rotateX(90deg) perspective(170px); 
+    -moz-transition-duration:2s; 
+		opacity:0;
+	} 
+
+  img.loading { 
+    -moz-transition-property:-moz-transform; 
+    -moz-transform: rotateY(0deg) rotateX(90deg) perspective(170px); 
+    -moz-transition-duration:2s; 
+    opacity:0;
+  } 
+
+    /* no styles accel
+    */
+	img.active { 
+    -moz-transition-property:-moz-transform; 
+    -moz-transform: rotateY(0deg) rotateX(0deg) perspective(170px); 
+    -moz-transition-duration:2s; 
+		opacity:1;
+	} 
+  img.fadeout { 
+    -moz-transition-property:-moz-transform; 
+    -moz-transform: rotateY(0deg) rotateX(90deg) perspective(17px); 
+    -moz-transition-duration:2s; 
+    opacity:1;
+  } 
+
+	body { padding:6px;padding-top:0 ; background-color:transparent;padding-bottom:0;text-align: center} 
+
+    </style>
+  </head>
+  <body>
+<div id="container" >
+</div>
+
+
+  </body>
+</html>

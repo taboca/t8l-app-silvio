@@ -1,0 +1,111 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link media="screen, projection" type="text/css" href="t8l/base.css" rel="stylesheet">
+<link media="screen, projection" type="text/css" href="t8l/hdgrid.css" rel="stylesheet">
+<link media="screen, projection" type="text/css" href="t8l/tagvisor.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="index-vertical.css">
+<script src="t8l/jquery-min.js"></script>
+<script src="const.js"></script>
+<script src="index-vertical.js"></script>
+<script src="t8l/tagvisor.js"></script>
+<script src="t8l/choreographer.js"></script>
+
+<style>
+
+    body { 
+
+    }
+
+</style>
+
+
+</head>
+
+<body id="main">
+
+<div id="debug" >
+</div>
+
+<ul id='animation'>
+ <li data-scope='meio' data-target='panel_1' data-time="2s" data-effect="scalefit" data-duration="4s" />
+</ul>
+
+<div id='screen1' >
+<div id='viewport' >
+<div id='viewport2' >
+
+<div class='grid gh1080'>
+
+<div class="gv11" >
+	<div class='gh' style='width:1079px;height:700px;' id='topmiddle'>
+	</div>
+	<div class='gh' style='width:1px;overflow:hidden' id='topmiddleright'>
+	</div>
+
+</div>
+
+
+<div id="top" class='gv' >
+
+
+
+
+  <h2 style='color:rgba(0,0,0,.3);font-size:35px;margin-top:1em ;padding:40px 20px 0 0'>Twitter #latinoware</h2> 
+
+  <div class='gv8 flex' data-flex='expand' style='background:rgba(255,255,255,.2);'>
+
+        <div class='gh' style='position:relative;width:1080px;-moz-transform:rotate(0deg)'>
+            <div style='height:536px'>
+                 <div id='bottomsection2' style='margin:0;height:100%; background-color:#fff; border-radius:25px 0 0 0 ; overflow:hidden;mask:url(#masking)' >
+                 </div>
+<!--
+                 <div style='position:absolute;top:0px;width:100%;height:100%' class='overtwit'>
+                 </div> 
+               -->
+            </div>
+        </div>
+
+  </div>
+
+
+  <h2 style='color:rgba(0,0,0,.3);font-size:35px;padding:80px 20px 0 0 '>Instagram #latinoware</h2> 
+
+  <div class='gv8 flex' data-flex='expand' style='background:rgba(255,255,255,.2);'>
+
+     <div class='gh' style='position:relative;width:1080px'>    
+            <div id='bottomsection' style='margin:0;height:560px; overflow:hidden' >
+            </div>
+        </div>
+  </div>
+
+
+</div>
+
+
+</div>
+
+</div> <!-- end of viewport --> 
+</div> <!-- end of viewport2 -->
+</div> <!-- end of viewport2 -->
+
+<svg>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0%" x2 ="0" y2="100%">
+      <stop stop-color="white" offset="0"/>
+      <stop stop-color="white" offset=".9"/>
+      <stop stop-color="black" offset=".95"/>
+      <stop stop-color="black" offset="1"/>
+    </linearGradient>
+
+    <mask id="masking" maskUnits="objectBoundingBox" maskContentUnits="objectBoundingBox">
+      <rect y="0" width="1" height="1" fill="url(#gradient)" />
+    </mask>
+
+  </defs>
+</svg>
+
+
+</body>
+</html>

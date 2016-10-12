@@ -1,0 +1,106 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link media="screen, projection" type="text/css" href="t8l/base.css" rel="stylesheet">
+<link media="screen, projection" type="text/css" href="t8l/hdgrid.css" rel="stylesheet">
+<link media="screen, projection" type="text/css" href="t8l/tagvisor.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="index-vertical.css">
+<script src="t8l/jquery-min.js"></script>
+<script src="const.js"></script>
+<script src="index-vertical.js"></script>
+<script src="t8l/tagvisor.js"></script>
+<script src="t8l/choreographer.js"></script>
+
+
+</head>
+
+<body id="main">
+
+<div id="debug" >
+</div>
+
+<ul id='animation'>
+ <li data-scope='meio' data-target='panel_1' data-time="2s" data-effect="scalefit" data-duration="4s" />
+</ul>
+
+<div id='screen1' >
+<div id='viewport' >
+<div id='viewport2' >
+
+<div class='grid gh1080'>
+
+<div class='gv1' style='border:0px solid red;background:black'>
+    <div class="" style='background:none' id="topheader">topheader
+        <!--
+               <div class='gh' id='hora' style='width:530px' ></div>
+               <div class='gh' id='data' style='width:530px;'></div>
+               -->
+    </div>
+</div>
+
+
+<div class="gv3" >
+	<div class='gh' style='width:780px' id='topmiddle'>
+	</div>
+	<div class='gh' style='width:300px;height:200px;overflow:hidden' id=''>
+        <img src='vendor/logo.png' width='400' style='-moz-transform-origin:50% 50%; -moz-transform:rotateZ(10deg) translate(0px ,-100px); position:relative;' />
+	</div>
+</div>
+
+
+<div class='gv17 flex' data-flex='middle' >
+	<div class='gh gh1080' >
+      <div id="middle"> </div> 
+  </div>
+</div>
+
+<div class="gv1" style="height:20px;background-color:">
+</div>
+
+<div id="top" class='gv' >
+
+	<div class='gv6 flex' data-flex='expand' style='background:rgba(255,255,255,.2);'>
+
+        <div class='gh' style='position:relative;width:560px'>
+            
+            <div id='bottomsection' style='margin:0;height:50%; overflow:hidden' >
+            </div>
+            
+            <div id='bottomsection-b' style='-moz-transform-origin:50% 50%; -moz-transform:rotateZ(-5deg) translate(-5px ,20px); position:relative;background-color:#333;margin:0;height:50%; overflow:hidden' >
+            </div>
+          <!--
+           <div style='position:absolute;top:0px;width:100%;height:100%' class='overtwit'></div>
+           -->
+     		</div>
+
+        <div class='gh' style='position:relative;width:520px;'>
+            <h2>Twitter #FISL</h2> 
+            <div style='height:540px'>
+                 <div id='bottomsection2' style='margin:0;height:100%; background-color:#444; border-radius:25px 0 0 0 ; overflow:hidden;' >
+                 </div>
+            <div style='position:absolute;top:0px;width:100%;height:100%' class='overtwit'>
+            </div>
+            </div>
+	      </div>
+   </div>
+
+  <div class='gv' style='width:100%;height:500px;background:white;'>
+   	<div class='gh' style='width:960px'>  
+       <div class='gv4' style='border:0px solid green' id='footer'>
+       </div>
+	   </div>
+
+	   <div class='gh' style='width:110px' id='climatempo'>
+	   </div>
+  </div>
+</div>
+
+</div>
+</div> <!-- end of viewport --> 
+</div> <!-- end of viewport2 -->
+</div> <!-- end of viewport2 -->
+
+
+</body>
+</html>

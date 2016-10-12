@@ -1,0 +1,19 @@
+{
+"rules": [
+
+{
+ "about":"start",
+ "function":"spawnJS",
+ "data":{"value":"mergeTwitter.js","about":"firefox"}, "to":"next"
+}, 
+{
+ "about":"next",
+ "function":"timer",
+ "data":{"value":190000},
+ "to":"start"
+}
+
+]
+
+}
+

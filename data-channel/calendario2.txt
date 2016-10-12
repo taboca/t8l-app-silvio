@@ -1,0 +1,664 @@
+BEGIN:VCALENDAR
+PRODID:-//Latinoware.org//LAPSI Latinoware 2.12//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Program Latinoware 2014
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALDESC:
+BEGIN:VEVENT
+DTSTART:20141015T190000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:98@1@102@1114
+CREATED:20141014T153744Z
+DESCRIPTION:breve
+LAST-MODIFIED:20140826T124950Z
+LOCATION:LAB 1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:LibreOffice Impress e Draw
+TRANSP:TRANSPARENT
+CATEGORIES:LibreOffice(#ffffff/#3757D3)\,LibreOffice(#ffffff/#3757D3)
+CONTACT:Vera Lucia Cavalcante Pereira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141015T190000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:98@1@103@1135
+CREATED:20141014T153744Z
+DESCRIPTION:Neste workshop você irá conhecer o Drupal e aprender como const
+ ruir um site sem precisar programar sequer uma linha de código.\n\nDrupal é
+  um sistema de gerenciamento de conteúdo\, open source\, muito flexível e f
+ ácil de usar\, que já representa cerca de 2% de todos os sites da internet.
+  Devido a sua flexibilidade o Drupal é considerado uma ótima solução para a
+  construção de sites\, portais\, e-commerce\, intranets e sistemas web em g
+ eral. Hoje é utilizado por grande empresas\, governos\, universidades\, ONG
+ s\, profissionais liberais\, bloggers etc.\n\nAlguns exemplos de uso do Dru
+ pal atualmente são: Casa Branca (http://www.whitehouse.gov/)\, Olimpíadas d
+ e 2016 (http://www.rio2016.com/)\, Claro (http://www.claro.com.br/) e Parqu
+ e Tecnológico Itaipú (http://www.pti.org.br/).\n\nAo final deste workshop v
+ ocê terá construído um site completo para uma ONG e terá o conhecimento nec
+ essário para desenvolver sites e sistemas web além de todas as ferramentas 
+ para começar sua carreira de desenvolvimento web.
+LAST-MODIFIED:20140829T103957Z
+LOCATION:LAB 2
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Construindo um site com Drupal sem saber programar.
+TRANSP:TRANSPARENT
+CATEGORIES:Desenvolvimento(#ffffff/#3A1092)
+CONTACT:Renato Vasconcelos
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141015T190000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:98@1@104@1149
+CREATED:20141014T153744Z
+DESCRIPTION:Aprenda a fazer algo incrível na web com o projeto Webmaker\, o
+ s participantes serão convidados a criar\, tanto online quanto offline\, e 
+ também a conhecer as ferramentas do Webmaker. O Webmaker possui ferramentas
+  como o Thimble\, X-Ray Goggles e Popcorn Maker que ajudam as pessoas a cri
+ arem conteúdos incríveis enquanto aprendem o que acontece embaixo do capô d
+ a internet\, tornando-se familiares com todos os aspectos e colocando a mão
+  na massa em elementos fundamentais como HTML\, CSS e JavaScript.
+LAST-MODIFIED:20140901T115107Z
+LOCATION:LAB 3
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Oficina Webmaker
+TRANSP:TRANSPARENT
+CATEGORIES:Trilha Mozilla(#ffffff/#FF0000)\,Trilha Mozilla(#ffffff/#FF0000)
+CONTACT:Samuel Moraes\,Eduardo Urcullu
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141015T190000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:98@1@105@1179
+CREATED:20141014T153744Z
+DESCRIPTION:O objetivo deste  workshop é demonstrar como o Mypaint e Kria p
+ odem servir de base para criações focadas em ilustrações\, concept designer
+ \,  sketch\, etc. Apresentando seu potencial\, suas funcionalidades e carac
+ teristicas  assim como atualizações e compatibilidades com outros softwares
+ .
+LAST-MODIFIED:20140903T123635Z
+LOCATION:LAB 4
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Pintura digital com Krita e MyPaint
+TRANSP:TRANSPARENT
+CATEGORIES:Multimídia(#ffffff/#2b3813)
+CONTACT:Viviane Silva Nonato
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141015T190000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:98@1@106@1286
+CREATED:20141014T153744Z
+DESCRIPTION:breve
+LAST-MODIFIED:20141007T135738Z
+LOCATION:Espaço Ñandeva
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Programa Lego Robótica Free
+TRANSP:TRANSPARENT
+CATEGORIES:Robótica e Open Hardware(#ffffff/#199a4e)
+CONTACT:SESI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@1@102@1256
+CREATED:20141014T153744Z
+DESCRIPTION:Especialista no assunto\, Neves é conhecido pelo didatismo e bo
+ m humor. É também responsável pela série de tutoriais sobre programação em 
+ Shell Script e Expressões Regulares\, publicados na revista Linux Magazine\
+ , intitulados “Papo de Botequim”.
+LAST-MODIFIED:20141002T195113Z
+LOCATION:LAB 1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Expressões Regulares\, decifrando os hieroglifos
+TRANSP:TRANSPARENT
+CATEGORIES:Desenvolvimento(#ffffff/#3A1092)\,Desenvolvimento(#ffffff/#3A109
+ 2)
+CONTACT:Julio Cezar Neves
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@1@103@1162
+CREATED:20141014T153744Z
+DESCRIPTION:Conteu?do Programa?tico\nKudo Post Mortem Forense com Ferrament
+ a Foss – Palestrante Sandro Melo\nTo?picos principais:\nConceituando o proc
+ esso de uma Post Mortem Forense\; Conceituando as ana?lises em camadas\;\nC
+ opia Bit a Bit e formatos de arquivos de imagens\; Auto?psia de um Disco Ri
+ ?gido em 5 camadas\nCamada 1 - Fi?sica\nInformac?o?es importantes para iden
+ tificac?a?o do objeto de identificac?a?o\nCamada 2 - Partic?o?es\nBusca e/o
+ u recuperac?a?o de informac?o?es de Particionamento\; Montagem de imagens p
+ ara Ana?lise\;\nCamada 3 - Sistema de Arquivo\nBusca e/ou recuperac?a?o de 
+ informac?o?es de Metadados\; Busca e/ou recuperac?a?o de informac?o?es de D
+ ados\; Busca e/ou recuperac?a?o de informac?o?es em Slackspace\; Construind
+ o uma Timeline\;\nCamada 4 - Arquivos Identificac?a?o de evide?ncias\;\nCam
+ ada 5 - Dados Identificac?a?o de Artefatos\;\nForense em memo?ria Volatilit
+ y – Palestrante Eriberto\nTo?picos principais:\nModelo von Neumman\;\nEstru
+ tura ba?sica de memo?ria\; Arquivos de swap e de hibernac?a?o\; Persiste?nc
+ ia das informac?o?es\; Dump de memo?ria\;\nAna?lise bina?ria com volatility
+ \; Ana?lise visual.\nFerramentas:\nVolatility\; LiME\; DumpIt\; Strings\; H
+ exedit.\nForense de Rede com ferramenta FOSS – Palestrante Ramilton\nTo?pic
+ os principais:\nConceituando o processo de uma Network Forense\; Ana?lise d
+ e arquivos Pcap\nCaptura de Payload\nExaminar artefato gerados por tra?fego
+  de rede Analisar sesso?es de comunicac?a?o\nIdentificar e recuperar artefa
+ tos TCP.\nFerramentas a serem trabalhadas - Wireshark\n- Xplico\n- Ngrep\n-
+  Tcpdump - Tcpflow\n- Tcpshow\n- TcpTrace - Tcpxptract -Chaosread\nDesafio 
+ “Academia Forense Livre”\nO desavio tem como propo?sito estimular os partic
+ ipantes a pra?tica da Computac?a?o Forense\, estimular os participantes a t
+ erem conhecimentos ba?sicos teo?ricos e pra?ticos para desenvolverem a Peri
+ ?cia Forense.\nRegras:\n1. O desavio podera? ser realizado por no ma?ximo 3
+  participantes\;\n2. Todo os participantes recebera?o o mesmo estudo de cas
+ o\;\n3. O tempo limite para realizar a atividade e? de 2 horas\;\n4. Ganha 
+ o participante ou a equipe que terminar o desavio em menos tempo.\n5. O des
+ afio sera? composto de perguntas\, que os participantes devera?o responder 
+ e repassar a comissa?o responsa?vel pelo desafio.\n6. Em caso de empate gan
+ ha o participante ou a equipe que tiver a melhor soluc?a?o. A melhor soluc?
+ a?o fica a cargo da comissa?o julgadora.\nPremiac?a?o:\n1. Primeiro lugar –
+  (Camisa do Latinoware + Livro)\n2. Segundo lugar – (Livro)\n3. Terceiro lu
+ gar – (Camisa)
+LAST-MODIFIED:20140901T180919Z
+LOCATION:LAB 2
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Mini Curso Especial Academia Forense Livre
+TRANSP:TRANSPARENT
+CATEGORIES:Trilha Forense(#ffffff/#710f5f)
+CONTACT:João Eriberto Mota Filho\,Ramilton Costa Gomes Junior\,Gilberto Sud
+ re\,Sandro Melo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@1@104@1112
+CREATED:20141014T153744Z
+DESCRIPTION:breve
+LAST-MODIFIED:20140826T125027Z
+LOCATION:LAB 3
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:LibreOffice Writer com foco na área operacional
+TRANSP:TRANSPARENT
+CATEGORIES:LibreOffice(#ffffff/#3757D3)\,LibreOffice(#ffffff/#3757D3)
+CONTACT:Henderson Matsuura
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@1@105@1150
+CREATED:20141014T153744Z
+DESCRIPTION:Aprenda como fazer um aplicativo para o FirefoxOS manualmente e
+  como portar o seu site/aplicativo já existente para a plataforma. Nesta of
+ icina também será apresentado o AppMaker\, uma ferramenta criada pela Mozil
+ la para facilitar a criação de Apps.
+LAST-MODIFIED:20140901T115121Z
+LOCATION:LAB 4
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Oficina de Apps para FirefoxOS
+TRANSP:TRANSPARENT
+CATEGORIES:Trilha Mozilla(#ffffff/#FF0000)
+CONTACT:Samuel Moraes\,Marcus Saad
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@1@106@1286
+CREATED:20141014T153744Z
+DESCRIPTION:breve
+LAST-MODIFIED:20141007T135809Z
+LOCATION:Espaço Ñandeva
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Programa Lego Robótica Free
+TRANSP:TRANSPARENT
+CATEGORIES:Robótica e Open Hardware(#ffffff/#199a4e)
+CONTACT:SESI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@1@107@1293
+CREATED:20141014T153744Z
+DESCRIPTION:Workshop Design Thinking: O conteúdo do workshop aborda a dinâm
+ ica do design para estimular a inovação\, utilizando muita atividade prátic
+ a e a criatividade para geração de soluções a partir de problemas identific
+ ados. Sua principal premissa é que\, ao entender os métodos e processos que
+  designers usam ao criar soluções\, indivíduos e organizações seriam mais c
+ apazes de se conectar e revigorar seus processos de criação a fim de elevar
+  o nível de inovação
+LAST-MODIFIED:20141007T175633Z
+LOCATION:Espaço Colômbia
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Workshop Design Thinking
+TRANSP:TRANSPARENT
+CATEGORIES:Negócios / Empreendedorismo(#ffffff/#722F00)\,Negócios / Empreen
+ dedorismo(#ffffff/#722F00)
+CONTACT:Facilitador Design Thinking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@2@102@1183
+CREATED:20141014T153744Z
+DESCRIPTION:O R é um ambiente e linguagem de programação sob a licença GPL 
+ (General Public License) desenvolvido na universidade de Auckland\, Nova Ze
+ lândia\, por Robert Gentleman e Ross Ihaka. Esse software tem ganhado espaç
+ o na ciência e na indústria\, com ênfase em análise estatística e exposição
+  gráfica. O Minicurso relativo ao R tem o objetivo de promover uma introduç
+ ão à ferramenta\, sem perder de vista suas amplas aplicações. A ideia é exp
+ or a utilização de ferramentas simples: comandos básicos do software\, apre
+ sentar classes de dados\, instalação de pacotes\, manipulação de dados e ut
+ ilização de algumas estruturas comuns em programação. Além disso\, apresent
+ ar basicamente a interface com a linguagem C e mostrar superficialmente a I
+ ntegração com a ferramenta de automação de web browsers Selenium. Isso cria
+  a possibilidade de executar tarefas algorítmicas com o browser a partir do
+  R.
+LAST-MODIFIED:20140904T182804Z
+LOCATION:LAB 1
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:INTRODUÇÃO AO AMBIENTE E LINGUAGEM DE PROGRAMAÇÃO R
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#B4695F)
+CONTACT:Crisley de Souza Peixoto
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@2@103@1162
+CREATED:20141014T153744Z
+DESCRIPTION:Conteu?do Programa?tico\nKudo Post Mortem Forense com Ferrament
+ a Foss – Palestrante Sandro Melo\nTo?picos principais:\nConceituando o proc
+ esso de uma Post Mortem Forense\; Conceituando as ana?lises em camadas\;\nC
+ opia Bit a Bit e formatos de arquivos de imagens\; Auto?psia de um Disco Ri
+ ?gido em 5 camadas\nCamada 1 - Fi?sica\nInformac?o?es importantes para iden
+ tificac?a?o do objeto de identificac?a?o\nCamada 2 - Partic?o?es\nBusca e/o
+ u recuperac?a?o de informac?o?es de Particionamento\; Montagem de imagens p
+ ara Ana?lise\;\nCamada 3 - Sistema de Arquivo\nBusca e/ou recuperac?a?o de 
+ informac?o?es de Metadados\; Busca e/ou recuperac?a?o de informac?o?es de D
+ ados\; Busca e/ou recuperac?a?o de informac?o?es em Slackspace\; Construind
+ o uma Timeline\;\nCamada 4 - Arquivos Identificac?a?o de evide?ncias\;\nCam
+ ada 5 - Dados Identificac?a?o de Artefatos\;\nForense em memo?ria Volatilit
+ y – Palestrante Eriberto\nTo?picos principais:\nModelo von Neumman\;\nEstru
+ tura ba?sica de memo?ria\; Arquivos de swap e de hibernac?a?o\; Persiste?nc
+ ia das informac?o?es\; Dump de memo?ria\;\nAna?lise bina?ria com volatility
+ \; Ana?lise visual.\nFerramentas:\nVolatility\; LiME\; DumpIt\; Strings\; H
+ exedit.\nForense de Rede com ferramenta FOSS – Palestrante Ramilton\nTo?pic
+ os principais:\nConceituando o processo de uma Network Forense\; Ana?lise d
+ e arquivos Pcap\nCaptura de Payload\nExaminar artefato gerados por tra?fego
+  de rede Analisar sesso?es de comunicac?a?o\nIdentificar e recuperar artefa
+ tos TCP.\nFerramentas a serem trabalhadas - Wireshark\n- Xplico\n- Ngrep\n-
+  Tcpdump - Tcpflow\n- Tcpshow\n- TcpTrace - Tcpxptract -Chaosread\nDesafio 
+ “Academia Forense Livre”\nO desavio tem como propo?sito estimular os partic
+ ipantes a pra?tica da Computac?a?o Forense\, estimular os participantes a t
+ erem conhecimentos ba?sicos teo?ricos e pra?ticos para desenvolverem a Peri
+ ?cia Forense.\nRegras:\n1. O desavio podera? ser realizado por no ma?ximo 3
+  participantes\;\n2. Todo os participantes recebera?o o mesmo estudo de cas
+ o\;\n3. O tempo limite para realizar a atividade e? de 2 horas\;\n4. Ganha 
+ o participante ou a equipe que terminar o desavio em menos tempo.\n5. O des
+ afio sera? composto de perguntas\, que os participantes devera?o responder 
+ e repassar a comissa?o responsa?vel pelo desafio.\n6. Em caso de empate gan
+ ha o participante ou a equipe que tiver a melhor soluc?a?o. A melhor soluc?
+ a?o fica a cargo da comissa?o julgadora.\nPremiac?a?o:\n1. Primeiro lugar –
+  (Camisa do Latinoware + Livro)\n2. Segundo lugar – (Livro)\n3. Terceiro lu
+ gar – (Camisa)
+LAST-MODIFIED:20140901T180934Z
+LOCATION:LAB 2
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Mini Curso Especial Academia Forense Livre
+TRANSP:TRANSPARENT
+CATEGORIES:Trilha Forense(#ffffff/#710f5f)
+CONTACT:João Eriberto Mota Filho\,Ramilton Costa Gomes Junior\,Gilberto Sud
+ re\,Sandro Melo
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@2@104@1113
+CREATED:20141014T153744Z
+DESCRIPTION:breve
+LAST-MODIFIED:20140826T125013Z
+LOCATION:LAB 3
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:LibreOffice Calc com foco na área operacional
+TRANSP:TRANSPARENT
+CATEGORIES:LibreOffice(#ffffff/#3757D3)\,LibreOffice(#ffffff/#3757D3)
+CONTACT:Klaibson Natal Ribeiro Borges
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@2@105@1151
+CREATED:20141014T153744Z
+DESCRIPTION:Continuação do trabalho de tradução do Firefox em idioma Guaran
+ i\, que já está sendo levado a cabo pela Facultad Politecnica da Universida
+ d Nacional de Asuncion\, e com apoio do Ateneo de Lenguas e Secretarîa de P
+ oliticas Linguisticas (SPL)
+LAST-MODIFIED:20140901T115147Z
+LOCATION:LAB 4
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Oficina de sprint l10n de Firefox em Guaraní
+TRANSP:TRANSPARENT
+CATEGORIES:Trilha Mozilla(#ffffff/#FF0000)
+CONTACT:Alcides Torres
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@2@106@1286
+CREATED:20141014T153744Z
+DESCRIPTION:breve
+LAST-MODIFIED:20141007T135812Z
+LOCATION:Espaço Ñandeva
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Programa Lego Robótica Free
+TRANSP:TRANSPARENT
+CATEGORIES:Robótica e Open Hardware(#ffffff/#199a4e)
+CONTACT:SESI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141016T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:99@2@107@1293
+CREATED:20141014T153744Z
+DESCRIPTION:Workshop Design Thinking: O conteúdo do workshop aborda a dinâm
+ ica do design para estimular a inovação\, utilizando muita atividade prátic
+ a e a criatividade para geração de soluções a partir de problemas identific
+ ados. Sua principal premissa é que\, ao entender os métodos e processos que
+  designers usam ao criar soluções\, indivíduos e organizações seriam mais c
+ apazes de se conectar e revigorar seus processos de criação a fim de elevar
+  o nível de inovação
+LAST-MODIFIED:20141007T175635Z
+LOCATION:Espaço Colômbia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Workshop Design Thinking
+TRANSP:TRANSPARENT
+CATEGORIES:Negócios / Empreendedorismo(#ffffff/#722F00)\,Negócios / Empreen
+ dedorismo(#ffffff/#722F00)
+CONTACT:Facilitador Design Thinking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@1@102@1182
+CREATED:20141014T153744Z
+DESCRIPTION:O Geogebra é um software livre que pode ser utilizados por dive
+ rsas áreas da ciência\, tendo como características interface dinâmica e int
+ uitiva. Além disso\, tem grande potencial de aplicação por meio de modelage
+ ns. O objetivo inicial do minicurso é apresentar o software como um todo\, 
+ juntamente com suas ferramentas básicas. Em um segundo momento iremos mostr
+ ar uma aplicação do Geogebra a um acontecimento observado no cotidiano\, qu
+ e tem potencial de demonstrar as principais ferramentas e possibilidades. I
+ remos então modelar o gol que aconteceu no jogo entre Brasil e Colômbia\, n
+ as quartas de final da copa do mundo de 2014\, sendo ele originado de uma f
+ alta\, onde o movimento da bola pode ser modelado por uma equação.
+LAST-MODIFIED:20141002T195145Z
+LOCATION:LAB 1
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:COMO MARCAR UM GOL COM O GEOGEBRA
+TRANSP:TRANSPARENT
+CATEGORIES:Educação(#ffffff/#B4695F)
+CONTACT:Marcela Martins Pereira\,Eduardo Antônio Soares Júnior
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@1@103@1152
+CREATED:20141014T153744Z
+DESCRIPTION:Introduction to Mozilla QA\, How to get involved in QA\, Differ
+ ent teams in QA\, Manual and automation testing in detail with examples Han
+ ds on with One and Done tasks
+LAST-MODIFIED:20140901T115221Z
+LOCATION:LAB 2
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Oficina de Mozilla Q&A: One and Done
+TRANSP:TRANSPARENT
+CATEGORIES:Trilha Mozilla(#ffffff/#FF0000)
+CONTACT:Srikar Ananthula
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@1@104@1126
+CREATED:20141014T153744Z
+DESCRIPTION:O minicurso vai ser ministrados por dois instrutores dos cursos
+  oficiais da  Puppetlabs\, eles vão demonstrar a instalação e a configuraçã
+ o de um servidor Puppet (1 hora)\, vão falar sobre a construção de módulos 
+ e vão construir um módulo ao vivo no laboratório (1 hora). Os instrutores t
+ ambém vão demonstrar o gerenciamento dos serviços PostgreSQL e MySQL utiliz
+ ando puppet (1 hora) e por fim vão demonstrar a instalação e a configuração
+  do orquestrador Mcollective (1 hora).\n\nDivisão do mini-curso:\n\nHora 1 
+ (Instalação e configuração do Puppet Master) - Miguel\nHora 2 (Construção d
+ e Módulos) - Guto\nHora 4 (Gerenciamento de PostgreSQL e MySQL com Puppet) 
+ - Miguel/Guto\nHora 3 (Instalação e configuração do Mcollective) - Guto
+LAST-MODIFIED:20140828T120404Z
+LOCATION:LAB 3
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Gerência de Configurações e Orquestração (Puppet & Mcollective)
+TRANSP:TRANSPARENT
+CATEGORIES:DevOps(#ffffff/#03856a)\,DevOps(#ffffff/#03856a)
+CONTACT:Guto Carvalho\,Miguel Di Ciurcio Filho
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@1@105@1038
+CREATED:20141014T153744Z
+DESCRIPTION:Começar a desenvolver com o framework Laravel é mais fácil do q
+ ue você pensa\, ainda que a extensa documentação sobre o mesmo possa deixar
+  confusos os usuários que estão buscando informação sobre ele. Nesse minicu
+ rso\, Denisson mostrará como usar o ambiente virtual preconfigurado Homeste
+ ad\, junto com o gestor de máquinas virtuais Vagrant para que você possa le
+ var para casa (ou para a sua empresa)\, debaixo do braço\, um cinto de util
+ idades que aumentará\, e muito\, sua produtividade no desenvolvimento em PH
+ P. Você verá como uma aplicação simples em PHP e MySQL ganhará velocidade e
+  expressividade\, na medida em que ela passa a utilizar o template Blade e 
+ o mapeamento objeto-relacional Eloquent\, ambos parte do Laravel. Prepare-s
+ e para muitos "Uaus!" durante esse minicurso.
+LAST-MODIFIED:20141007T191232Z
+LOCATION:LAB 4
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Laravel\, mão na massa!
+TRANSP:TRANSPARENT
+CATEGORIES:Desenvolvimento(#ffffff/#3A1092)\,Desenvolvimento(#ffffff/#3A109
+ 2)
+CONTACT:Denisson Augusto Bastos Leal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@1@106@1286
+CREATED:20141014T153744Z
+DESCRIPTION:breve
+LAST-MODIFIED:20141007T135819Z
+LOCATION:Espaço Ñandeva
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Programa Lego Robótica Free
+TRANSP:TRANSPARENT
+CATEGORIES:Robótica e Open Hardware(#ffffff/#199a4e)
+CONTACT:SESI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T130000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@1@107@1294
+CREATED:20141014T153744Z
+DESCRIPTION:Workshop Business Model Canvas: É uma linguagem comum que permi
+ te descrever\, analisar e orientar organizações em como podem criar novos o
+ u alterar modelos de negócios já existentes\, por meio de uma metodologia á
+ gil e prática\, obtendo resultados rápidos e consistentes. \n\nWorkshop Pit
+ ch: Trabalha ferramentas e técnicas para apresentação de modelos de negócio
+ s para um público definido\, com objetividade e clareza\, buscando cativar 
+ a atenção para futuras conversas de aprofundamento.
+LAST-MODIFIED:20141007T175647Z
+LOCATION:Espaço Colômbia
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Workshop Business Model Canvas e Workshop Pitch
+TRANSP:TRANSPARENT
+CATEGORIES:Negócios / Empreendedorismo(#ffffff/#722F00)\,Negócios / Empreen
+ dedorismo(#ffffff/#722F00)
+CONTACT:Facilitador Design Thinking
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@2@102@1254
+CREATED:20141014T153744Z
+DESCRIPTION:Neste minicurso\, será apresentado realizado o processo de inst
+ alação do servidor de mapas GEOSERVER (criação de Workspaces\, Stores\, Lay
+ ers\, LayerGroups e a customização de Styles) e a criação de uma tela de ma
+ pas utilizando a biblioteca para criação de mapas e apresentação de dados g
+ eográficos OpenLayers v2.
+LAST-MODIFIED:20140929T174751Z
+LOCATION:LAB 1
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Desenvolvendo visualizador de dados geográficos utilizando OpenLaye
+ rs e GeoServer
+TRANSP:TRANSPARENT
+CATEGORIES:Desenvolvimento(#ffffff/#3A1092)\,Desenvolvimento(#ffffff/#3A109
+ 2)
+CONTACT:Fagner Oliveira\,Marcos André
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@2@103@1214
+CREATED:20141014T153744Z
+DESCRIPTION:Como desenvolver solução de Internet of Things utilizando NodeJ
+ S. O lançamento do NodeJS não só possibilitou o desenvolvimento BackEnd uti
+ lizando JavaScript mas também o desenvolvimento de software e aplicações em
+ barcadas utilizando hardwares já consolidados no mercado como Raspberry Pi\
+ , Arduino\, BeagleBone Black entre outras.
+LAST-MODIFIED:20140910T122758Z
+LOCATION:LAB 2
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Arduino\, Raspberry Pi e NodeJS no desenvolvimento de IoT
+TRANSP:TRANSPARENT
+CATEGORIES:Robótica e Open Hardware(#ffffff/#199a4e)
+CONTACT:Thalis Antunes De Souza\,Vitor Leal
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@2@104@1169
+CREATED:20141014T153744Z
+DESCRIPTION:O intuito desta apresentação seria de mostrar aos participantes
+  como usar um Sistema de Gerenciador de Conteúdo Open Source (Joomla) para 
+ criação e gerenciamento de sites de ONGs e até mesmo de seu blog pessoal ou
+  qualquer outro site institucional.
+LAST-MODIFIED:20140902T192400Z
+LOCATION:LAB 3
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Criando o site de sua ONG usando Software Livre e o CMS Joomla.
+TRANSP:TRANSPARENT
+CATEGORIES:Negócios / Empreendedorismo(#ffffff/#722F00)
+CONTACT:Juliano Augusto de Souza Oliveira
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@2@105@1255
+CREATED:20141014T153744Z
+DESCRIPTION:Uma breve introdução sobre o framework AngularJS e seus compone
+ ntes\, desenvolvendo uma aplicação simples que contemple itens reais do dia
+  dia\, proporcionando uma experiencia com a ferramenta de tal forma que qua
+ lquer pessoa após curso consiga utilizá-la.
+LAST-MODIFIED:20141007T191232Z
+LOCATION:LAB 4
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:AngularJS - Bem vindo a uma nova era.
+TRANSP:TRANSPARENT
+CATEGORIES:Desenvolvimento(#ffffff/#3A1092)\,Desenvolvimento(#ffffff/#3A109
+ 2)
+CONTACT:Adriano Coutinho da Silva
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@2@106@1286
+CREATED:20141014T153744Z
+DESCRIPTION:breve
+LAST-MODIFIED:20141007T135821Z
+LOCATION:Espaço Ñandeva
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Programa Lego Robótica Free
+TRANSP:TRANSPARENT
+CATEGORIES:Robótica e Open Hardware(#ffffff/#199a4e)
+CONTACT:SESI
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20141017T170000Z
+DURATION:PT240M
+DTSTAMP:20141014T153744Z
+UID:100@2@107@1294
+CREATED:20141014T153744Z
+DESCRIPTION:Workshop Business Model Canvas: É uma linguagem comum que permi
+ te descrever\, analisar e orientar organizações em como podem criar novos o
+ u alterar modelos de negócios já existentes\, por meio de uma metodologia á
+ gil e prática\, obtendo resultados rápidos e consistentes. \n\nWorkshop Pit
+ ch: Trabalha ferramentas e técnicas para apresentação de modelos de negócio
+ s para um público definido\, com objetividade e clareza\, buscando cativar 
+ a atenção para futuras conversas de aprofundamento.
+LAST-MODIFIED:20141007T175649Z
+LOCATION:Espaço Colômbia
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Workshop Business Model Canvas e Workshop Pitch
+TRANSP:TRANSPARENT
+CATEGORIES:Negócios / Empreendedorismo(#ffffff/#722F00)\,Negócios / Empreen
+ dedorismo(#ffffff/#722F00)
+CONTACT:Facilitador Design Thinking
+END:VEVENT
+END:VCALENDAR
