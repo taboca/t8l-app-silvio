@@ -18,15 +18,12 @@
     <!-- maybe this can be moved to afterProxyRun... -->
     <script type="text/javascript">
      t8l.loaded(function () {
-       // transport.setUrl('https://www.google.com/calendar/ical/8osmf16hks86iaamrvo31hnq7s%40group.calendar.google.com/public/basic.ics');
         transport.setUrl('/channel/calendario.txt');
-	//transport.setOutput();
   	    transport.init();
-	    transport.start(function (evento) {
-            app.init(evento);
-		    app.start(['19','20','21']);
-	    });
-
+  	    transport.start(function (evento) {
+              app.init(evento);
+  		    app.start(['19','20','21']);
+  	    });
      });
     </script>
     <style> body { } </style>
