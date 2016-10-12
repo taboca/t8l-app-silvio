@@ -6,6 +6,8 @@ html, body { margin:0; padding:0; color:white; overflow:hidden;background-color:
 
 body {
   width:1920px; height:1080px;
+  transform:scale(.666666);
+  transform-origin: 0 0 ;
   background: linear-gradient(180deg, rgba(255,255,255,1),  rgba(170,170,170,1))
 }
 
