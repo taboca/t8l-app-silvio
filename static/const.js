@@ -4,3 +4,4 @@ URL_SALAS = "/channel/calendario.txt";
 URL_NOTICIAS = "/channel/destaques.xml";
 URL_NOTICIAS2 = "/channel/noticias.xml";
 URL_BANNERS = "/channel/banners.xml";
+URL_FOTOS = '/channel/instagram.txt'
